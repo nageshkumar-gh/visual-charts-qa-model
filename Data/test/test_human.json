@@ -1,0 +1,5662 @@
+[
+    {
+        "imgname": "10149.png",
+        "query": "In which year the value was 51?",
+        "label": "2014"
+    },
+    {
+        "imgname": "10149.png",
+        "query": "What is the sum favourable  value in the year 2014 and 2015?",
+        "label": "95"
+    },
+    {
+        "imgname": "10183.png",
+        "query": "How many intercepting point(s) is/are there?",
+        "label": "1"
+    },
+    {
+        "imgname": "10183.png",
+        "query": "Which year has the most divergent opinions about Brazil's economy?",
+        "label": "2015"
+    },
+    {
+        "imgname": "10451.png",
+        "query": "In which year the value of orange graph is 36?",
+        "label": "2013"
+    },
+    {
+        "imgname": "10451.png",
+        "query": "What's the median value of green graph from 2011 to 2015?",
+        "label": "61"
+    },
+    {
+        "imgname": "10452.png",
+        "query": "What's the rightmost value of dark green graph?",
+        "label": "15"
+    },
+    {
+        "imgname": "10452.png",
+        "query": "How many values in light green graph are equal?",
+        "label": "2"
+    },
+    {
+        "imgname": "10468.png",
+        "query": "What's the leftmost value of green graph?",
+        "label": "44"
+    },
+    {
+        "imgname": "10468.png",
+        "query": "Is the sum of two lowest value of green graph greater than higest value of orange graph?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "34.png",
+        "query": "Are the lines diverging?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "34.png",
+        "query": "What is the second least difference in the two voters' opinions?",
+        "label": "29"
+    },
+    {
+        "imgname": "4438.png",
+        "query": "What is the colour of Support Rep candidate in the chart?",
+        "label": "Red"
+    },
+    {
+        "imgname": "4438.png",
+        "query": "What is the sum value of Support Dem candidate and Support Rep candidates in the year Oct 14?",
+        "label": "131"
+    },
+    {
+        "imgname": "4612.png",
+        "query": "What's the color of the graph whose lowest value is 31?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "4612.png",
+        "query": "In which time period the difference between blue and orange graph minimum?",
+        "label": "Jan 2018"
+    },
+    {
+        "imgname": "4876.png",
+        "query": "In which year the value of green graph is lowest?",
+        "label": "2014"
+    },
+    {
+        "imgname": "4876.png",
+        "query": "Is the sum of all the values in 2017 smaller than sum of all the values in 2005?",
+        "label": "No"
+    },
+    {
+        "imgname": "6361.png",
+        "query": "In which year the value of red bar dip?",
+        "label": "2014"
+    },
+    {
+        "imgname": "6361.png",
+        "query": "How many points in blue graph have similar of 92?",
+        "label": "2"
+    },
+    {
+        "imgname": "6381.png",
+        "query": "What is the peak value of orange graph?",
+        "label": "70"
+    },
+    {
+        "imgname": "6381.png",
+        "query": "What is the sum of lowest green graph value and highest orange graph value?",
+        "label": "98"
+    },
+    {
+        "imgname": "6530.png",
+        "query": "When does the satisfied line reach the peak?",
+        "label": "2012"
+    },
+    {
+        "imgname": "6530.png",
+        "query": "How many times has the satisfied rate been above 25?",
+        "label": "6"
+    },
+    {
+        "imgname": "6772.png",
+        "query": "Blue line represent which country?",
+        "label": "U.S."
+    },
+    {
+        "imgname": "6772.png",
+        "query": "What is the average of last 3 years in china data?",
+        "label": "40.66"
+    },
+    {
+        "imgname": "6905.png",
+        "query": "What's the value of green bar in 2017?",
+        "label": "34"
+    },
+    {
+        "imgname": "6905.png",
+        "query": "What's the product of largest value of orange graph and rightmost value of green graph?",
+        "label": "2482"
+    },
+    {
+        "imgname": "7542.png",
+        "query": "What is the colour that represent Republicans with unfavourable views of china?",
+        "label": "Red"
+    },
+    {
+        "imgname": "7542.png",
+        "query": "What is the total of Republican and Democrats in the year 2015?",
+        "label": "113"
+    },
+    {
+        "imgname": "7628.png",
+        "query": "In which year there was lowest value who say Alternative sources such as wind ,solar should be more important priority for addressing America's energy supply?",
+        "label": "2013"
+    },
+    {
+        "imgname": "7628.png",
+        "query": "What was the value in 2017 who say Expand production of oil/,coat ,natural gas should be more important priority for addressing America's energy supply?",
+        "label": "27"
+    },
+    {
+        "imgname": "7665.png",
+        "query": "What does the yellow line represent?",
+        "label": "Unfavorable"
+    },
+    {
+        "imgname": "7665.png",
+        "query": "Sum up the medians of the three sets of opinion data?",
+        "label": "101"
+    },
+    {
+        "imgname": "8120.png",
+        "query": "Which line is always above the other?",
+        "label": "Bad"
+    },
+    {
+        "imgname": "8120.png",
+        "query": "Which sentiment has a positive change from 2007 to 2016?",
+        "label": "Good"
+    },
+    {
+        "imgname": "8376.png",
+        "query": "What's the median years of residence in U.S. for adults unauthorized immigrants in 2014?",
+        "label": "13.6"
+    },
+    {
+        "imgname": "8376.png",
+        "query": "What's the sum of first point and largest value of orange graph?",
+        "label": "20.7"
+    },
+    {
+        "imgname": "8777.png",
+        "query": "What does the green line represent?",
+        "label": "EU 5-country median"
+    },
+    {
+        "imgname": "8777.png",
+        "query": "When does the gap between UK and EU median reach the largest level?",
+        "label": "2007"
+    },
+    {
+        "imgname": "9815.png",
+        "query": "What percent feels that we should rely on democratic government in the year 2002?",
+        "label": "0.57"
+    },
+    {
+        "imgname": "9815.png",
+        "query": "What is the difference in value in terms of relying on Democratic government and strong leader in the year 2015?",
+        "label": "20"
+    },
+    {
+        "imgname": "1030.png",
+        "query": "What's the color of smallest slice in chart?",
+        "label": "Orange"
+    },
+    {
+        "imgname": "1030.png",
+        "query": "What's the total of add up value of largest slice and smallest slice value in the chart?",
+        "label": "53"
+    },
+    {
+        "imgname": "11625.png",
+        "query": "What's the value of Developing economies graph in 2014?",
+        "label": "25"
+    },
+    {
+        "imgname": "11625.png",
+        "query": "Is the average of all the values in 2007 greater than average of all the values in 2014?",
+        "label": "No"
+    },
+    {
+        "imgname": "11755.png",
+        "query": "When does the percentage of people who prefer democracy reach the peak?",
+        "label": "2012"
+    },
+    {
+        "imgname": "11755.png",
+        "query": "Is the percentage of favoring democracy larger than the sum of other two attitudes in 2014?",
+        "label": "No"
+    },
+    {
+        "imgname": "11758.png",
+        "query": "What does green line indicates?",
+        "label": "Democratic form of gov't"
+    },
+    {
+        "imgname": "11758.png",
+        "query": "Is the median of values on green line greater than the median of values on orange line?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "11760.png",
+        "query": "On the basis of graph, when the value of green line lowest?",
+        "label": "2014"
+    },
+    {
+        "imgname": "11760.png",
+        "query": "Is there a major shift in the preference of stable government from 2012 to 2014?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "12020.png",
+        "query": "What does Grey segment represents?",
+        "label": "As important and powerful role as 10 years ago"
+    },
+    {
+        "imgname": "12020.png",
+        "query": "Is the highest value in Less important and powerful role than 10 years ago more then the highest value in More important and powerful role than 10 years ago?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "12320.png",
+        "query": "Which opinion is indicated by green line in the given graph?",
+        "label": "Favorable"
+    },
+    {
+        "imgname": "12320.png",
+        "query": "In the year 2014, which opinion is dominant?",
+        "label": "Unfavorable"
+    },
+    {
+        "imgname": "13252.png",
+        "query": "What is the value of lower graph in 1969?",
+        "label": "12"
+    },
+    {
+        "imgname": "13252.png",
+        "query": "What is the difference in the rise percentage of people saying marijuana should be legalized from 1969 to 2013?",
+        "label": "0.4"
+    },
+    {
+        "imgname": "1328.png",
+        "query": "What is the percentage of people saying 'No' as per the graph shown?",
+        "label": "0.14"
+    },
+    {
+        "imgname": "1328.png",
+        "query": "How much more percent of people saying 'yes' than 'no'?",
+        "label": "0.29"
+    },
+    {
+        "imgname": "15477.png",
+        "query": "What is the % saying that there is solid evidence of warming among Democrats in 2012?",
+        "label": "85"
+    },
+    {
+        "imgname": "15477.png",
+        "query": "What is the difference in % saying that there is solid evidence of warming among Democrats and Republicans in 2012?",
+        "label": "37"
+    },
+    {
+        "imgname": "15829.png",
+        "query": "Which line represents Romney?",
+        "label": "Red"
+    },
+    {
+        "imgname": "15829.png",
+        "query": "What is the sum of the largest difference and the smallest difference in opinions between the two candidates?",
+        "label": "18"
+    },
+    {
+        "imgname": "16263.png",
+        "query": "Which party does Red segment represent?",
+        "label": "Republican Party"
+    },
+    {
+        "imgname": "16263.png",
+        "query": "What is the difference value of Democratic party and Republican party in the year March 2012?",
+        "label": "13"
+    },
+    {
+        "imgname": "17255.png",
+        "query": "When does the line of favor reach the peak?",
+        "label": "44295"
+    },
+    {
+        "imgname": "17255.png",
+        "query": "When does the gap between two lines reach the peak?",
+        "label": "44295"
+    },
+    {
+        "imgname": "18163.png",
+        "query": "What's the peak value of orange graph?",
+        "label": "44"
+    },
+    {
+        "imgname": "18163.png",
+        "query": "Is the least difference between blue and orange graph greater than least value of blue graph?",
+        "label": "No"
+    },
+    {
+        "imgname": "2422.png",
+        "query": "In the pie chart, what is A great deal percentage?",
+        "label": "22"
+    },
+    {
+        "imgname": "2422.png",
+        "query": "What is the ratio between Not too much/not at all vs some?",
+        "label": "0.9744"
+    },
+    {
+        "imgname": "2782.png",
+        "query": "What is the ratio between the blue and the gray segments?",
+        "label": "1.542361111"
+    },
+    {
+        "imgname": "2782.png",
+        "query": "What is the median value among all pies?",
+        "label": "27"
+    },
+    {
+        "imgname": "2852.png",
+        "query": "What's the percentage value of U.S. adults who have heard a lot about facial recognition technology?",
+        "label": "25"
+    },
+    {
+        "imgname": "2852.png",
+        "query": "Is the value of largest segment greater than sum of other two?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "3412.png",
+        "query": "What's the percentage value of biggest face?",
+        "label": "66"
+    },
+    {
+        "imgname": "3412.png",
+        "query": "What's the difference between the percentage of biggest face and smallest face?",
+        "label": "61"
+    },
+    {
+        "imgname": "532.png",
+        "query": "Which color shows 8 percent in the Pie segment?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "532.png",
+        "query": "What percent believes that US should hold China responsible for the role it played in the outbreak of the coronavirus ,even if it means worsening relations with China?",
+        "label": "50"
+    },
+    {
+        "imgname": "819.png",
+        "query": "What is the percentage of Lawful Immigrants under U.S. Foreign-born population?",
+        "label": "0.77"
+    },
+    {
+        "imgname": "819.png",
+        "query": "As per the graph, is the share of Temporary lawful residents lowest?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "10209.png",
+        "query": "How many friends does 6% show in a Pie graph?",
+        "label": "1"
+    },
+    {
+        "imgname": "10209.png",
+        "query": "Is the value of No friends more then more then 5 friends?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "10376.png",
+        "query": "What's the name of biggest pie in the section?",
+        "label": "Not mixed race"
+    },
+    {
+        "imgname": "10376.png",
+        "query": "What is the difference in value of Not mixed race and Mixed race?",
+        "label": "30"
+    },
+    {
+        "imgname": "10943.png",
+        "query": "What's the color of Smallest segment of the graph?",
+        "label": "gray"
+    },
+    {
+        "imgname": "10943.png",
+        "query": "What's the Total add up value of Allowed to refuse services and Required to provide services?",
+        "label": "96"
+    },
+    {
+        "imgname": "11050.png",
+        "query": "What's the most popular opinion?",
+        "label": "President Obama"
+    },
+    {
+        "imgname": "11050.png",
+        "query": "What is the red pie represented?",
+        "label": "Republican congressional leaders"
+    },
+    {
+        "imgname": "11150.png",
+        "query": "What is the value of the largest segment?",
+        "label": "50"
+    },
+    {
+        "imgname": "11150.png",
+        "query": "Is the add up value of smallest and 2nd largest segment is equal to largest segment value?",
+        "label": "No"
+    },
+    {
+        "imgname": "11227.png",
+        "query": "In the pie chart, There is a value for 52 %, find that category?",
+        "label": "As important as last year"
+    },
+    {
+        "imgname": "11227.png",
+        "query": "Add the two category More important and As important as last year, and divide it by less important?",
+        "label": "4"
+    },
+    {
+        "imgname": "11646.png",
+        "query": "What does Grey represent in the Pie graph?",
+        "label": "No, would not"
+    },
+    {
+        "imgname": "11646.png",
+        "query": "What percent of value is not shown in the PIE GRAPH?",
+        "label": "0.04"
+    },
+    {
+        "imgname": "11690.png",
+        "query": "What color shows 8 % in the Pie graph?",
+        "label": "gray"
+    },
+    {
+        "imgname": "11690.png",
+        "query": "Is the value of No more then sum of Yes and Dk?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "11844.png",
+        "query": "What's the percentage value of Muslim?",
+        "label": "10"
+    },
+    {
+        "imgname": "11844.png",
+        "query": "What's the ratio of Catholic and Muslim (A:B)?",
+        "label": "0.043055556"
+    },
+    {
+        "imgname": "12283.png",
+        "query": "What's the value of \"Other \"segment?",
+        "label": "4"
+    },
+    {
+        "imgname": "12283.png",
+        "query": "Does the sum of all three smallest segments value is greater the the value of 2nd largest segment?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "12722.png",
+        "query": "What's the color of second largest segment?",
+        "label": "Green"
+    },
+    {
+        "imgname": "12722.png",
+        "query": "What's the ratio of largest segment and second smallest segment?",
+        "label": "0.250694444"
+    },
+    {
+        "imgname": "12812.png",
+        "query": "What percentage of Indians are dissatisfied with the country's direction?",
+        "label": "0.7"
+    },
+    {
+        "imgname": "12812.png",
+        "query": "What is the ratio between the percentage of Indians who are dissatisfied versus the ones who are satisfied with the country's directon?",
+        "label": "2.414"
+    },
+    {
+        "imgname": "4359.png",
+        "query": "What color represent  Don't know?",
+        "label": "Orange"
+    },
+    {
+        "imgname": "4359.png",
+        "query": "Is the sum of More Fewer and Don\"t know more then About the same ?",
+        "label": "No"
+    },
+    {
+        "imgname": "4417.png",
+        "query": "In how many parts are Pie chart divide?",
+        "label": "4"
+    },
+    {
+        "imgname": "4417.png",
+        "query": "What is the biggest pie represent in the Pie chart?",
+        "label": "Very easy"
+    },
+    {
+        "imgname": "5147.png",
+        "query": "What is the value of the grey pie?",
+        "label": "0.17"
+    },
+    {
+        "imgname": "5147.png",
+        "query": "What is the value of the red pie?",
+        "label": "0.83"
+    },
+    {
+        "imgname": "7318.png",
+        "query": "What percent shows Never married in the Pie chart?",
+        "label": "27"
+    },
+    {
+        "imgname": "7318.png",
+        "query": "What is the difference of value in Widowed and Separated?",
+        "label": "7"
+    },
+    {
+        "imgname": "7710.png",
+        "query": "What is the value of largest segment?",
+        "label": "86"
+    },
+    {
+        "imgname": "7710.png",
+        "query": "Is the largest segment is three times the value of smallest segment?",
+        "label": "No"
+    },
+    {
+        "imgname": "9198.png",
+        "query": "What's the percentage value of segment whose color is darkest?",
+        "label": "40"
+    },
+    {
+        "imgname": "9198.png",
+        "query": "How many segments have value above 30%?",
+        "label": "2"
+    },
+    {
+        "imgname": "9575.png",
+        "query": "What's the percentage of people choosing not subjected to additional scrutiny?",
+        "label": "61"
+    },
+    {
+        "imgname": "9575.png",
+        "query": "What is the color of the second largest pie?",
+        "label": "Brown"
+    },
+    {
+        "imgname": "13774.png",
+        "query": "How many color are shown in the Pie chart?",
+        "label": "4"
+    },
+    {
+        "imgname": "13774.png",
+        "query": "Add up all the three least value and then find the difference between Mostly politics and controversies and the sum total?",
+        "label": "12"
+    },
+    {
+        "imgname": "14101.png",
+        "query": "What is the value of the smallest segment?",
+        "label": "23"
+    },
+    {
+        "imgname": "14101.png",
+        "query": "Is the add up value of smallest and 2nd largest segment is equal to largest segment value?",
+        "label": "No"
+    },
+    {
+        "imgname": "14780.png",
+        "query": "Is there only three segments in the pie chart?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "14780.png",
+        "query": "What's the ratio of two largest segment?",
+        "label": "1"
+    },
+    {
+        "imgname": "15472.png",
+        "query": "In how many parts is the Pie chart divided into?",
+        "label": "5"
+    },
+    {
+        "imgname": "15472.png",
+        "query": "What is the difference in value between Completely agree and sum of Dk and Mostly agree in Pie chart?",
+        "label": "2"
+    },
+    {
+        "imgname": "15947.png",
+        "query": "In how many segment is the Pie chart divided?",
+        "label": "5"
+    },
+    {
+        "imgname": "15947.png",
+        "query": "Adding the lowest Three value and Is the sum more then the highest value in Pie chart?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "16437.png",
+        "query": "What is the smallest percentage value for the DK/Ref?",
+        "label": "13"
+    },
+    {
+        "imgname": "16437.png",
+        "query": "What is the percentage difference between the smallest percent of DK/Ref to Disapprove?",
+        "label": "46"
+    },
+    {
+        "imgname": "17117.png",
+        "query": "What is the percentage in no opinion?",
+        "label": "14"
+    },
+    {
+        "imgname": "17117.png",
+        "query": "What is the percentage of other reasons and economic force?",
+        "label": "[10, 12]"
+    },
+    {
+        "imgname": "17358.png",
+        "query": "What is the percentage in red segment?",
+        "label": "0.17"
+    },
+    {
+        "imgname": "17358.png",
+        "query": "What are the percentage in democrat and no partisan leaning?",
+        "label": "[47, 13]"
+    },
+    {
+        "imgname": "17361.png",
+        "query": "What percentage of Democrats agree with tea party movement?",
+        "label": "47"
+    },
+    {
+        "imgname": "17361.png",
+        "query": "What's the difference between Democrats and Republicans on agreeing with tea party movement?",
+        "label": "30"
+    },
+    {
+        "imgname": "18187.png",
+        "query": "What's the percentage of children that are born in US?",
+        "label": "79"
+    },
+    {
+        "imgname": "18187.png",
+        "query": "What is the radio of children between born in US and born abroad?",
+        "label": "3.7619"
+    },
+    {
+        "imgname": "18211.png",
+        "query": "What is the color of Don't Know segment?",
+        "label": "gray"
+    },
+    {
+        "imgname": "18211.png",
+        "query": "What is the difference between the two largest segments?",
+        "label": "25"
+    },
+    {
+        "imgname": "18254.png",
+        "query": "What value does Mostly Bad news shows?",
+        "label": "31"
+    },
+    {
+        "imgname": "18254.png",
+        "query": "What is the difference in Mostly bad news and A mix of good and bad news?",
+        "label": "17"
+    },
+    {
+        "imgname": "7872.png",
+        "query": "What is the percentage for scientists bar?",
+        "label": "60"
+    },
+    {
+        "imgname": "7872.png",
+        "query": "Find the ratio between Scientists and small-farm owners?",
+        "label": "1"
+    },
+    {
+        "imgname": "7903.png",
+        "query": "What does the least value represent?",
+        "label": "Justice Department"
+    },
+    {
+        "imgname": "7903.png",
+        "query": "What is the difference in Military and Judge?",
+        "label": "0.03"
+    },
+    {
+        "imgname": "7944.png",
+        "query": "Is the color of smallest bar green?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "7944.png",
+        "query": "Is the median of navy blue bars greater than largest value of light blue bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "7946.png",
+        "query": "What's the percentage of mothers saying father does more handling household chores?",
+        "label": "0.04"
+    },
+    {
+        "imgname": "7946.png",
+        "query": "How many gray bars value exceed 50?",
+        "label": "1"
+    },
+    {
+        "imgname": "8042.png",
+        "query": "What's the percentage of Muslims in Nigeria who have \"Benefit of all\" opinion?",
+        "label": "53"
+    },
+    {
+        "imgname": "8042.png",
+        "query": "Take median of green bars in Kenya, multiply it by 2, is the result greater than median of orange bar in Kenya?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "8182.png",
+        "query": "What is the color of the good time?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "8182.png",
+        "query": "Which value is the bad time and good time of the for their specialty?",
+        "label": "[44, 55]"
+    },
+    {
+        "imgname": "00268016000783.png",
+        "query": "What is the value of Orange bar?",
+        "label": "41.25"
+    },
+    {
+        "imgname": "00268016000783.png",
+        "query": "What is the sum value of Benin and Fiji?",
+        "label": "77.08"
+    },
+    {
+        "imgname": "00916448003743.png",
+        "query": "Which country has the lowest value?",
+        "label": "Uruguay"
+    },
+    {
+        "imgname": "00916448003743.png",
+        "query": "What is the total add up value of Uruguay and Guatemala?",
+        "label": "51.92"
+    },
+    {
+        "imgname": "01200566001630.png",
+        "query": "How many age groups are shown in the bar graph?",
+        "label": "7"
+    },
+    {
+        "imgname": "01200566001630.png",
+        "query": "What age group shows the highest value of death rate due to Ethiopia?",
+        "label": "Under-5s"
+    },
+    {
+        "imgname": "01606743005377.png",
+        "query": "What is average total meat supply per person in Ghana?",
+        "label": "10.5"
+    },
+    {
+        "imgname": "01606743005377.png",
+        "query": "What is the difference in the value of Paraguay and Ghana?",
+        "label": "65.8"
+    },
+    {
+        "imgname": "04482797005227.png",
+        "query": "How many color are shown in the graph?",
+        "label": "5"
+    },
+    {
+        "imgname": "04482797005227.png",
+        "query": "IS the sum of two lowest cancer incidence more then Brunei?",
+        "label": "No"
+    },
+    {
+        "imgname": "04533011003180.png",
+        "query": "What is the value of largest segment?",
+        "label": "1653.64"
+    },
+    {
+        "imgname": "04533011003180.png",
+        "query": "What is the sum of smallest bar and largest bar?",
+        "label": "1765.49"
+    },
+    {
+        "imgname": "04960398003730.png",
+        "query": "What's the weight of Laos?",
+        "label": "0.8"
+    },
+    {
+        "imgname": "04960398003730.png",
+        "query": "What is the total add up weight of both the bars?",
+        "label": "1.55"
+    },
+    {
+        "imgname": "05516045003357.png",
+        "query": "What's the value of longest bar?",
+        "label": "49.03"
+    },
+    {
+        "imgname": "05516045003357.png",
+        "query": "What's the average of longest bar value and smallest bar value?",
+        "label": "47.765"
+    },
+    {
+        "imgname": "06605156002432.png",
+        "query": "What's the value of largest bar?",
+        "label": "0.18"
+    },
+    {
+        "imgname": "06605156002432.png",
+        "query": "What's the add up value of United kingdom and Australia?",
+        "label": "0.17"
+    },
+    {
+        "imgname": "07082838005745.png",
+        "query": "What is the value of pink colour?",
+        "label": "219.67"
+    },
+    {
+        "imgname": "07082838005745.png",
+        "query": "What is the difference between the value of pink color to purple color?",
+        "label": "24.89"
+    },
+    {
+        "imgname": "07143886006788.png",
+        "query": "What is the value the green bar?",
+        "label": "247732.35"
+    },
+    {
+        "imgname": "07143886006788.png",
+        "query": "What is the difference between the largest bar and the second largest bar?",
+        "label": "0.48"
+    },
+    {
+        "imgname": "07339205003459.png",
+        "query": "How many colors are represented in the bar?",
+        "label": "3"
+    },
+    {
+        "imgname": "07339205003459.png",
+        "query": "Is the combined distribution of Mexico and Kazakhstan higher than Dominica?",
+        "label": "No"
+    },
+    {
+        "imgname": "07712434000343.png",
+        "query": "What is the share of Primary Schools with access to computers for pedagogical purposes?",
+        "label": "0.477"
+    },
+    {
+        "imgname": "07712434000343.png",
+        "query": "Find the median of all bar values separately?",
+        "label": "64.41"
+    },
+    {
+        "imgname": "08501617009882.png",
+        "query": "Which place has the highest value in the bar chart?",
+        "label": "Israel"
+    },
+    {
+        "imgname": "08501617009882.png",
+        "query": "What is the Ratio of Norway and Israel in the bar chart?",
+        "label": "1.4747706422018347"
+    },
+    {
+        "imgname": "08688106002770.png",
+        "query": "Which country does 74.13 % represent?",
+        "label": "Cayman Islands"
+    },
+    {
+        "imgname": "08688106002770.png",
+        "query": "Is the sum value of lowest 2 bar is greater then the green bar in the graph?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "12511766009780.png",
+        "query": "Find out Mexico value?",
+        "label": "85.67"
+    },
+    {
+        "imgname": "12511766009780.png",
+        "query": "Find out the average of the bottom three countries?",
+        "label": "63.92"
+    },
+    {
+        "imgname": "13438060002042.png",
+        "query": "Which animal is represented by smallest bar?",
+        "label": "Cattle"
+    },
+    {
+        "imgname": "13438060002042.png",
+        "query": "What is the average of Sheep and Goats?",
+        "label": "4250"
+    },
+    {
+        "imgname": "13689839003009.png",
+        "query": "Which one is the 100% value?",
+        "label": "Horseshoe crabs"
+    },
+    {
+        "imgname": "13689839003009.png",
+        "query": "What is the value of the Amphibians and Gymnosperms?",
+        "label": "0.4"
+    },
+    {
+        "imgname": "14843149005580.png",
+        "query": "What's the value of smallest bar?",
+        "label": "0.0241"
+    },
+    {
+        "imgname": "14843149005580.png",
+        "query": "Does the smallest bar value is greater the the difference of Largest two bars value?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "15168220000623.png",
+        "query": "What is the value for poland?",
+        "label": "0.0648"
+    },
+    {
+        "imgname": "15168220000623.png",
+        "query": "What is the ratio between American Samoa vs Qatar?",
+        "label": "0.30359"
+    },
+    {
+        "imgname": "16823767005326.png",
+        "query": "Which country has longest bar?",
+        "label": "Timor"
+    },
+    {
+        "imgname": "16823767005326.png",
+        "query": "What's the average of smallest two bar?",
+        "label": "1.345"
+    },
+    {
+        "imgname": "16902888001203.png",
+        "query": "What's the value of smallest bar?",
+        "label": "62.22"
+    },
+    {
+        "imgname": "16902888001203.png",
+        "query": "What's the average of Yemen and Brazil?",
+        "label": "84.17"
+    },
+    {
+        "imgname": "17098927006493.png",
+        "query": "What is the color of all bars?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "17098927006493.png",
+        "query": "What is the total tonnage for Ukraine and Barbados?",
+        "label": "6235"
+    },
+    {
+        "imgname": "19104713013357.png",
+        "query": "Which place has the highest Daily hempseed production?",
+        "label": "China"
+    },
+    {
+        "imgname": "19104713013357.png",
+        "query": "Is the value of China more then European Union?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "20559489000721.png",
+        "query": "What is the color of smallest bar?",
+        "label": "Brown"
+    },
+    {
+        "imgname": "20559489000721.png",
+        "query": "What is the average of two bars?",
+        "label": "84"
+    },
+    {
+        "imgname": "22413620001316.png",
+        "query": "How many color are shown in the chart?",
+        "label": "3"
+    },
+    {
+        "imgname": "22413620001316.png",
+        "query": "What is the difference in value between Mexico and Arab World?",
+        "label": "0.07"
+    },
+    {
+        "imgname": "23326450006962.png",
+        "query": "What is the name of largest bar?",
+        "label": "70+ years old"
+    },
+    {
+        "imgname": "23326450006962.png",
+        "query": "what is the sum of smallest two bars?",
+        "label": "9.58"
+    },
+    {
+        "imgname": "23712011000876.png",
+        "query": "What is the value of Middle bar?",
+        "label": "71.1"
+    },
+    {
+        "imgname": "23712011000876.png",
+        "query": "Is the average of smallest two bar is greater then the value of largest bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "23940851006052.png",
+        "query": "What is the color of bar that represents China?",
+        "label": "Brown"
+    },
+    {
+        "imgname": "23940851006052.png",
+        "query": "Does the sum of value of China and Finland is greater then the difference of Sri Lanka and Finland?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "24497347006184.png",
+        "query": "What color does the England represent in the chart?",
+        "label": "Purple"
+    },
+    {
+        "imgname": "24497347006184.png",
+        "query": "What the sum value of Mauritius and Dominica?",
+        "label": "83"
+    },
+    {
+        "imgname": "25481403005418.png",
+        "query": "How many colors are represented in the bar??",
+        "label": "5"
+    },
+    {
+        "imgname": "25481403005418.png",
+        "query": "What is the difference between the largest bar and the smallest bar??",
+        "label": "17.36"
+    },
+    {
+        "imgname": "26334874005187.png",
+        "query": "What is the share of the rural population with access to improved sanitation facilities in Sweden?",
+        "label": "0.997"
+    },
+    {
+        "imgname": "26334874005187.png",
+        "query": "Find ratio of the sum and difference of the two percentage values (ignore decimal values)?",
+        "label": "1.31"
+    },
+    {
+        "imgname": "27162063002465.png",
+        "query": "How many bars are there in the graph?",
+        "label": "4"
+    },
+    {
+        "imgname": "27162063002465.png",
+        "query": "Doe the difference of 2nd largest and 2nd smallest bar is greater then the value of smallest bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "29537859004102.png",
+        "query": "Which two age groups has the least value?",
+        "label": "[5-14 years old, 15-49 years old]"
+    },
+    {
+        "imgname": "29537859004102.png",
+        "query": "Is the average value of two uppermost bars equal to 0.25?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "30699546002290.png",
+        "query": "What is the Mean years of schooling value in South Africa?",
+        "label": "4.44"
+    },
+    {
+        "imgname": "30699546002290.png",
+        "query": "Is the average value of two smallest bars more than 0.60 years?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "39947264017438.png",
+        "query": "Which country represented by pink bar?",
+        "label": "South Sudan"
+    },
+    {
+        "imgname": "39947264017438.png",
+        "query": "Does the sum of smallest two bar is greater then the value of largest bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "40350636009248.png",
+        "query": "Which country represented by brown bar?",
+        "label": "Egypt"
+    },
+    {
+        "imgname": "40350636009248.png",
+        "query": "What is the difference in the value of Egypt and Sierra Leone?",
+        "label": "111"
+    },
+    {
+        "imgname": "43692574000916.png",
+        "query": "How many bars are there in the chart?",
+        "label": "4"
+    },
+    {
+        "imgname": "43692574000916.png",
+        "query": "What is the difference between smallest two bars?",
+        "label": "7"
+    },
+    {
+        "imgname": "49668651006513.png",
+        "query": "What does the Grey bar represent?",
+        "label": "Singapore"
+    },
+    {
+        "imgname": "49668651006513.png",
+        "query": "is the value of Somalia more then Lithuania and singapore?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "50275185003760.png",
+        "query": "What value does the US shwo in the chart?",
+        "label": "44"
+    },
+    {
+        "imgname": "50275185003760.png",
+        "query": "What is the difference in the value of Namibia and US?",
+        "label": "10"
+    },
+    {
+        "imgname": "51070810006732.png",
+        "query": "What is the highest value of the bar graph?",
+        "label": "0.334"
+    },
+    {
+        "imgname": "51070810006732.png",
+        "query": "Ratio which is the highest value versus lowest",
+        "label": "6.549019607843137"
+    },
+    {
+        "imgname": "51092320006574.png",
+        "query": "What's the value of yellow bar?",
+        "label": "17"
+    },
+    {
+        "imgname": "51092320006574.png",
+        "query": "Does the sum of smallest two bar is greater then then the value of 3rd largest bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "52383186004636.png",
+        "query": "Whats the value of Cassava?",
+        "label": "15.89"
+    },
+    {
+        "imgname": "52383186004636.png",
+        "query": "Does the sum of smallest two bar is smaller then the 3rd largest bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "61762978006740.png",
+        "query": "How many bars are there in the chart?",
+        "label": "3"
+    },
+    {
+        "imgname": "61762978006740.png",
+        "query": "Does the sum of smallest two bar is greater then the value of largest bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "65032629000853.png",
+        "query": "How many color bars are used in the graph?",
+        "label": "8"
+    },
+    {
+        "imgname": "65032629000853.png",
+        "query": "Does the sum of smallest two bar is greater then then the value of largest bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "66032284002450.png",
+        "query": "How manty bars are used in the graph?",
+        "label": "2"
+    },
+    {
+        "imgname": "66032284002450.png",
+        "query": "What's the difference of both the bar?",
+        "label": "69.78"
+    },
+    {
+        "imgname": "77793907011056.png",
+        "query": "Which two country's data is presented in this graph?",
+        "label": "[Brazil, Pakistan]"
+    },
+    {
+        "imgname": "77793907011056.png",
+        "query": "Find the sum and the difference of the Adequacy of social insurance programs percentage in the Brazil and Pakistan separately?",
+        "label": "[66.98, 28.1]"
+    },
+    {
+        "imgname": "84321945010746.png",
+        "query": "What is the value for Egypt ?",
+        "label": "69"
+    },
+    {
+        "imgname": "84321945010746.png",
+        "query": "How many times Tunisia greater than Egypt ?",
+        "label": "3.217"
+    },
+    {
+        "imgname": "00881004009933.png",
+        "query": "How many countries/regions are included in the chart?",
+        "label": "4"
+    },
+    {
+        "imgname": "00881004009933.png",
+        "query": "When does the sum of values of all lines reach the peak?",
+        "label": "2003"
+    },
+    {
+        "imgname": "05836356005390.png",
+        "query": "Which country recorded the highest adolescent birth rate in women aged 10-19 years over the given years?",
+        "label": "Iraq"
+    },
+    {
+        "imgname": "05836356005390.png",
+        "query": "Which of the following countries recorded the higher Adolescent birth rate in women, Laos or Botswana?",
+        "label": "Laos"
+    },
+    {
+        "imgname": "07419347008482.png",
+        "query": "Which year recorded the maximum depressive disorder DALYs in Northern Ireland?",
+        "label": "2000"
+    },
+    {
+        "imgname": "07419347008482.png",
+        "query": "Which of the following countries recorded the higher depressive disorder DALYs over the years, Northern Ireland or American Samoa?",
+        "label": "Northern Ireland"
+    },
+    {
+        "imgname": "08688106002893.png",
+        "query": "How many countries are featured here?",
+        "label": "3"
+    },
+    {
+        "imgname": "08688106002893.png",
+        "query": "When did all of the countries reach their peak?",
+        "label": "2008"
+    },
+    {
+        "imgname": "10249312005004.png",
+        "query": "Which year recorded the least number of child labor UK(boys, historic)?",
+        "label": "1911"
+    },
+    {
+        "imgname": "10249312005004.png",
+        "query": "Which gender in UK saw more child labor over the given years?",
+        "label": "Child labor UK (boys, historic)"
+    },
+    {
+        "imgname": "11366360004326.png",
+        "query": "What line has the lowest track error?",
+        "label": "24 hours"
+    },
+    {
+        "imgname": "11366360004326.png",
+        "query": "In what year the 72 hours line have the highest value?",
+        "label": "1995"
+    },
+    {
+        "imgname": "11656751005000.png",
+        "query": "Which year recorded the highest use of Potash fertilizer by Croatia?",
+        "label": "2010"
+    },
+    {
+        "imgname": "11656751005000.png",
+        "query": "How many countries used more than 40kg of Potash fertilizer from 2010 to 2016?",
+        "label": "2"
+    },
+    {
+        "imgname": "17309959021958.png",
+        "query": "What is the starting year in the chart?",
+        "label": "1870"
+    },
+    {
+        "imgname": "17309959021958.png",
+        "query": "Which country data have raised more, from the first data to the latest data?",
+        "label": "United States"
+    },
+    {
+        "imgname": "20294671002016.png",
+        "query": "When does the green line reach the peak?",
+        "label": "1992"
+    },
+    {
+        "imgname": "20294671002016.png",
+        "query": "How many lines reach the peak in 1990?",
+        "label": "3"
+    },
+    {
+        "imgname": "20822516005149.png",
+        "query": "Which country recorded the highest number of death rates from mental health?",
+        "label": "Panama"
+    },
+    {
+        "imgname": "20822516005149.png",
+        "query": "Which of the following countries recorded the higher death rates from mental health, Comoros or Timor?",
+        "label": "Comoros"
+    },
+    {
+        "imgname": "29035673000700.png",
+        "query": "How many lines are included in the graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "29035673000700.png",
+        "query": "When does the gap between the value of the female share in agriculture and female share in services reach the largest?",
+        "label": "2008"
+    },
+    {
+        "imgname": "29435929004387.png",
+        "query": "When does the line reach the peak?",
+        "label": "1980"
+    },
+    {
+        "imgname": "29435929004387.png",
+        "query": "Between which two years does the line have the sharpest increase?",
+        "label": "[1961, 1965]"
+    },
+    {
+        "imgname": "30214927004321.png",
+        "query": "What does the grey bar represent?",
+        "label": "Burkina Faso"
+    },
+    {
+        "imgname": "30214927004321.png",
+        "query": "In which year you can see the change in the percentage in Burkina Faso bar?",
+        "label": "1999"
+    },
+    {
+        "imgname": "30583182000177.png",
+        "query": "How many years are mention in the graph?",
+        "label": "9"
+    },
+    {
+        "imgname": "30583182000177.png",
+        "query": "What is the different in percentage in the year 1990 between Hong Kong and Cambodia ?",
+        "label": "30"
+    },
+    {
+        "imgname": "32511750001843.png",
+        "query": "What air pollutant is represented by the red line?",
+        "label": "Nitrogen oxides (NOx)"
+    },
+    {
+        "imgname": "32511750001843.png",
+        "query": "What is the approximate difference in emission levels of Sulphur oxides between the year 1997 and 2003?",
+        "label": "20"
+    },
+    {
+        "imgname": "42306777011359.png",
+        "query": "Which year recorded the lowest Composition of Trade taxes over the years?",
+        "label": "1996"
+    },
+    {
+        "imgname": "42306777011359.png",
+        "query": "In how many years, the composition of tax revenues was more than 3 %?",
+        "label": "3"
+    },
+    {
+        "imgname": "54920600008818.png",
+        "query": "Which country is represented by the red color line?",
+        "label": "Belarus"
+    },
+    {
+        "imgname": "54920600008818.png",
+        "query": "Between which two years, Co2 emissions embedded in global trade was maximum in Madagascar?",
+        "label": "[2005, 2010]"
+    },
+    {
+        "imgname": "55700259001525.png",
+        "query": "How many dotted lines are there?",
+        "label": "2"
+    },
+    {
+        "imgname": "55700259001525.png",
+        "query": "In which year the red graph has the median value?",
+        "label": "1980"
+    },
+    {
+        "imgname": "56488196003790.png",
+        "query": "Which country is represented by the red color line?",
+        "label": "Venezuela"
+    },
+    {
+        "imgname": "56488196003790.png",
+        "query": "How many countries generated more than 800 kWh per capita electricity generation over the years?",
+        "label": "2"
+    },
+    {
+        "imgname": "64463698006123.png",
+        "query": "In which year, the value of net official development assistance as a percentage of OECD-DAC donors peaked in Belgium?",
+        "label": "2010"
+    },
+    {
+        "imgname": "64463698006123.png",
+        "query": "Is the first value larger than the last value in the red graph from left to right?",
+        "label": "No"
+    },
+    {
+        "imgname": "70543716002173.png",
+        "query": "How many colors are appear in the bar graph?",
+        "label": "5"
+    },
+    {
+        "imgname": "70543716002173.png",
+        "query": "In which year has the highest disease been prevented?",
+        "label": "2010"
+    },
+    {
+        "imgname": "72228523000609.png",
+        "query": "Which year recorded the highest number of weekly hours worked by males over the years?",
+        "label": "1930"
+    },
+    {
+        "imgname": "72228523000609.png",
+        "query": "Which year recorded the highest number of weekly hours worked by females over the years?",
+        "label": "1980"
+    },
+    {
+        "imgname": "75123496007329.png",
+        "query": "Which two countries\ufffd data for Consumption-based CO2 emissions is represented in this graph?",
+        "label": "[United States, Spain]"
+    },
+    {
+        "imgname": "75123496007329.png",
+        "query": "Which country shows an all-time low and almost straight line in its data?",
+        "label": "Spain"
+    },
+    {
+        "imgname": "78534843003005.png",
+        "query": "What country has the highest share of the population with autism?",
+        "label": "Canada"
+    },
+    {
+        "imgname": "78534843003005.png",
+        "query": "What countries have the share of the population with autism with a value lower than 0.25%?",
+        "label": "[Pakistan, Togo]"
+    },
+    {
+        "imgname": "81814640000280.png",
+        "query": "Which age group recorded the highest homicide rate in Suriname over the years?",
+        "label": "15-49 years old"
+    },
+    {
+        "imgname": "81814640000280.png",
+        "query": "How many age groups have recorded a suicide rate of more than 6 over the years?",
+        "label": "3"
+    },
+    {
+        "imgname": "85924056007438.png",
+        "query": "How many countries are included in the chart?",
+        "label": "4"
+    },
+    {
+        "imgname": "85924056007438.png",
+        "query": "When does the gap between Egypt and Fiji become the largest?",
+        "label": "2011"
+    },
+    {
+        "imgname": "86276368010166.png",
+        "query": "Which year recorded the highest amount of annual CO2 emissions from oil by Lesotho?",
+        "label": "2019"
+    },
+    {
+        "imgname": "86276368010166.png",
+        "query": "Which country is represented in the given line graph?",
+        "label": "Lesotho"
+    },
+    {
+        "imgname": "87189810001857.png",
+        "query": "Which color is Norway data?",
+        "label": "Red"
+    },
+    {
+        "imgname": "87189810001857.png",
+        "query": "Which country data has the slope go down?",
+        "label": "Uruguay"
+    },
+    {
+        "imgname": "87521083008215.png",
+        "query": "Which country's data is presented in this graph?",
+        "label": "Cape Verde"
+    },
+    {
+        "imgname": "87521083008215.png",
+        "query": "Is the value of Disability-adjusted life years in Cape Verde always above 1400 from 1997 to 2007?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "94518590002246.png",
+        "query": "How many color bars are shown in the graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "94518590002246.png",
+        "query": "What value is shown between Guyana and American Samoa?",
+        "label": "1200"
+    },
+    {
+        "imgname": "95854862001684.png",
+        "query": "In which year, the number of armed forces personnel in the United Arab Emirates is least?",
+        "label": "2002"
+    },
+    {
+        "imgname": "95854862001684.png",
+        "query": "For how many years, the number of armed forces personnel in the United Arab Emirates are the same?",
+        "label": "6"
+    },
+    {
+        "imgname": "96881713000165.png",
+        "query": "What is the red line represents?",
+        "label": "Share of women who prefer a male boss"
+    },
+    {
+        "imgname": "96881713000165.png",
+        "query": "Which year Share of men who prefer a male boss come down below 40%?",
+        "label": "1993"
+    },
+    {
+        "imgname": "97187864005448.png",
+        "query": "What is the pink bar represents ??",
+        "label": "Bulgaria"
+    },
+    {
+        "imgname": "97187864005448.png",
+        "query": "what is the approximate value of the first point that starts the Bulgaria line?",
+        "label": "575"
+    },
+    {
+        "imgname": "1125.png",
+        "query": "How many colored bars are used in the graph?",
+        "label": "4"
+    },
+    {
+        "imgname": "1125.png",
+        "query": "What's the median value of gray bars?",
+        "label": "14"
+    },
+    {
+        "imgname": "116.png",
+        "query": "Is the smallest value of all the bars 8?",
+        "label": "No"
+    },
+    {
+        "imgname": "116.png",
+        "query": "What's the product of median and largest value of gray bar?",
+        "label": "598"
+    },
+    {
+        "imgname": "1179.png",
+        "query": "What's the lowest value of green bar?",
+        "label": "0.03"
+    },
+    {
+        "imgname": "1179.png",
+        "query": "How manu blue bars with the value below 70?",
+        "label": "2"
+    },
+    {
+        "imgname": "1197.png",
+        "query": "What is the percentage of Black who say they Favor Congress passing a law granting permanent legal status to immigrants who came to U.S illegally when they were children?",
+        "label": "0.82"
+    },
+    {
+        "imgname": "1197.png",
+        "query": "What is the sum percentage of Oppose and Favour in Asia ?",
+        "label": "0.99"
+    },
+    {
+        "imgname": "1204.png",
+        "query": "Which age group has the percentage of high stress is 30%?",
+        "label": "Ages 18-29"
+    },
+    {
+        "imgname": "1204.png",
+        "query": "Is the sum value of age group of 30-49 is more then 50-64 age group ?",
+        "label": "No"
+    },
+    {
+        "imgname": "1210.png",
+        "query": "What's the percentage of Indian who say better?",
+        "label": "0.68"
+    },
+    {
+        "imgname": "1210.png",
+        "query": "Is the sum of lowest value of green and blue bar greater than largest value of gray bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "1273.png",
+        "query": "Do more people 'take breaks from' or 'stay tuned in to'?",
+        "label": "Take breaks from"
+    },
+    {
+        "imgname": "1273.png",
+        "query": "What percentage of white people has no answer, or had a different answer than take breaks from' or 'stay tuned in to'?",
+        "label": "0.01"
+    },
+    {
+        "imgname": "1336.png",
+        "query": "What's the lowest value of the navy blue bar?",
+        "label": "28"
+    },
+    {
+        "imgname": "1336.png",
+        "query": "What's the ratio of the lowest value of yellow bar and navy blue bar (in A:B)?",
+        "label": "0.218055556"
+    },
+    {
+        "imgname": "1347.png",
+        "query": "What's the value of the rightmost bar in 2020?",
+        "label": "8"
+    },
+    {
+        "imgname": "1347.png",
+        "query": "What'e the ratio of Low/Very low bars in 2020 and 2019?",
+        "label": "0.085416667"
+    },
+    {
+        "imgname": "1350.png",
+        "query": "In which country the value of Poor is 7%?",
+        "label": "South Korea"
+    },
+    {
+        "imgname": "1350.png",
+        "query": "Is the average of all the bars in Germany greater than largest value of green bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "1358.png",
+        "query": "What's the percentage value of green bar in Total category?",
+        "label": "33"
+    },
+    {
+        "imgname": "1358.png",
+        "query": "What's the median value of the first three blue bar from bottom?",
+        "label": "54"
+    },
+    {
+        "imgname": "1364.png",
+        "query": "What's the percentage of 65+ age group who trust WHO in regard to a great deal?",
+        "label": "16"
+    },
+    {
+        "imgname": "1364.png",
+        "query": "What's the median value of \"A fair amount\" bars?",
+        "label": "40"
+    },
+    {
+        "imgname": "1381.png",
+        "query": "Which year's data is represented?",
+        "label": "2020"
+    },
+    {
+        "imgname": "1381.png",
+        "query": "What percent of US had no opinion?",
+        "label": "0.09"
+    },
+    {
+        "imgname": "1382.png",
+        "query": "What is the data value for ages 30-49?",
+        "label": "49"
+    },
+    {
+        "imgname": "1382.png",
+        "query": "What is the percentage of college grad?",
+        "label": "59"
+    },
+    {
+        "imgname": "1419.png",
+        "query": "What's the least value of gray bar?",
+        "label": "8"
+    },
+    {
+        "imgname": "1419.png",
+        "query": "What's the average of the two largest value of gray bar?",
+        "label": "27"
+    },
+    {
+        "imgname": "1493.png",
+        "query": "What is the liberal democrats value of Us adults who says they think journalists have had to change the way they report the news Somewhat due to corona virus outbreak?",
+        "label": "46"
+    },
+    {
+        "imgname": "1493.png",
+        "query": "Is the sum of Not at all and Not much in Conservative Republicans more than the sum value of Not at all and Not much Liberal democrats ?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "1709.png",
+        "query": "Does Fox news have the highest value?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "1709.png",
+        "query": "Are there any two news channels that have the same value?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "576.png",
+        "query": "How many blue color shades are used to represent the graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "576.png",
+        "query": "What's the product of the median and the smallest value of navy blue bar?",
+        "label": "154"
+    },
+    {
+        "imgname": "657.png",
+        "query": "What's the value of the yellow bar in New York?",
+        "label": "25"
+    },
+    {
+        "imgname": "657.png",
+        "query": "Is the median equal to the smallest bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "941.png",
+        "query": "What's the value of blue bar for 50+ age group?",
+        "label": "24"
+    },
+    {
+        "imgname": "941.png",
+        "query": "Is the sum of the two largest value of green bar smaller than 100?",
+        "label": "No"
+    },
+    {
+        "imgname": "1766.png",
+        "query": "Is the 18-29 age group bars have the darkest color?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "1766.png",
+        "query": "What's the value of the 30-49 age group bar that is the same as two news channels?",
+        "label": "22"
+    },
+    {
+        "imgname": "1830.png",
+        "query": "What percent of people think that the coronavirus outbreak is a major threat to the US economy?",
+        "label": "70"
+    },
+    {
+        "imgname": "1830.png",
+        "query": "What percent of people think that the coronavirus outbreak is at least a minor threat or more for your personal financial situation?",
+        "label": "43"
+    },
+    {
+        "imgname": "1882.png",
+        "query": "What does dark green mean?",
+        "label": "Very important"
+    },
+    {
+        "imgname": "1882.png",
+        "query": "What is the average of those who think 'not too important or 'not important at all' in Germany?",
+        "label": "0.225"
+    },
+    {
+        "imgname": "2191.png",
+        "query": "What's the value of the bar in Jan 2008?",
+        "label": "78"
+    },
+    {
+        "imgname": "2191.png",
+        "query": "What's the sum of the median of all the bars and the average of the two smallest bar?",
+        "label": "87"
+    },
+    {
+        "imgname": "2336.png",
+        "query": "Are there only three colors used to represent the graph?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "2336.png",
+        "query": "What's the difference between averages of all the bars in 18-29 and the largest bar in the \"All adults\" category?",
+        "label": "8"
+    },
+    {
+        "imgname": "2558.png",
+        "query": "What's the value of the first Minor reason bar from the top?",
+        "label": "24"
+    },
+    {
+        "imgname": "2558.png",
+        "query": "What's the product of medians of Major reason bars and Minor reason bars?",
+        "label": "564"
+    },
+    {
+        "imgname": "2642.png",
+        "query": "How many believe in West Germany that children today will be Worse financially than their parents?",
+        "label": "41"
+    },
+    {
+        "imgname": "2642.png",
+        "query": "In which the value in East Germany is highest in the Worse off or the Better off?",
+        "label": "Worse off"
+    },
+    {
+        "imgname": "2661.png",
+        "query": "Is the color of bar green whose value is 56% in the Suecia category?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "2661.png",
+        "query": "What's the ratio of green bar occurrences with values 28 and 23?",
+        "label": "0.043055556"
+    },
+    {
+        "imgname": "2748.png",
+        "query": "What is the number of refugees in New York?",
+        "label": "1800"
+    },
+    {
+        "imgname": "2748.png",
+        "query": "What is the total number of refugees in the states of Michigan, Georgia, and Arizona?",
+        "label": "3500"
+    },
+    {
+        "imgname": "2823.png",
+        "query": "What's the percentage for men with young children to work full time?",
+        "label": "76"
+    },
+    {
+        "imgname": "2823.png",
+        "query": "What's the sum of percentage for not working for pay at all?",
+        "label": "24"
+    },
+    {
+        "imgname": "2902.png",
+        "query": "Is the color of Rarely opinion bars light blue?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "2902.png",
+        "query": "Take the average of all the light blue bars and the median of light green bars, what's the average of these two values?",
+        "label": "33.375"
+    },
+    {
+        "imgname": "3655.png",
+        "query": "What's the value of the largest bar?",
+        "label": "70"
+    },
+    {
+        "imgname": "3655.png",
+        "query": "Is the value of yellow bars increasing from top to bottom?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "3785.png",
+        "query": "What do the blue bars represent?",
+        "label": "Less important"
+    },
+    {
+        "imgname": "3785.png",
+        "query": "What is the average of all the more important bars, not including the MEDIAN?",
+        "label": "0.495"
+    },
+    {
+        "imgname": "3787.png",
+        "query": "What country has the lowest value for 'More Important'?",
+        "label": "France"
+    },
+    {
+        "imgname": "3787.png",
+        "query": "What is the average of all the 'as important' bars, not including the median?",
+        "label": "0.371"
+    },
+    {
+        "imgname": "3894.png",
+        "query": "What's the percentage value of Worse in Germans?",
+        "label": "0.46"
+    },
+    {
+        "imgname": "3894.png",
+        "query": "Is the median of all the American bars greater than the largest green bar?",
+        "label": " No"
+    },
+    {
+        "imgname": "4090.png",
+        "query": "What's the value of a navy blue bar?",
+        "label": "78"
+    },
+    {
+        "imgname": "4090.png",
+        "query": "Is the median of the \"Support\" bar greater than the largest \"Oppose\" bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "4571.png",
+        "query": "What is the percentage of the public who share their views about Music and Movies?",
+        "label": "61"
+    },
+    {
+        "imgname": "4571.png",
+        "query": "What is the ratio of the public who don\ufffdt and do share their views about Religion?",
+        "label": "2.322916667"
+    },
+    {
+        "imgname": "4286.png",
+        "query": "What's the value of the first rightmost bar from the bottom?",
+        "label": "4"
+    },
+    {
+        "imgname": "4286.png",
+        "query": "Add all the gray bars whose values are below 10?",
+        "label": "9"
+    },
+    {
+        "imgname": "4850.png",
+        "query": "What's the percentage of people choosing very well?",
+        "label": "68"
+    },
+    {
+        "imgname": "4850.png",
+        "query": "Which age range is more likely to choose very well?",
+        "label": "18-29"
+    },
+    {
+        "imgname": "4633.png",
+        "query": "What % of people think that France is playing a more important role in the world compared to 10 years ago?",
+        "label": "0.22"
+    },
+    {
+        "imgname": "4633.png",
+        "query": "What % of people think that India is playing an as important or a more important role in the world compared to 10 years ago?",
+        "label": "0.61"
+    },
+    {
+        "imgname": "4138.png",
+        "query": "How many colors are used to represent the graph?",
+        "label": "4"
+    },
+    {
+        "imgname": "4138.png",
+        "query": "Is the median of Strongly Approve bars greater than the median of Strongly Disapprove bars?",
+        "label": "No"
+    },
+    {
+        "imgname": "5258.png",
+        "query": "What's the largest value of the purple bar?",
+        "label": "72"
+    },
+    {
+        "imgname": "5258.png",
+        "query": "Is the value of purple bars always greater than yellow bars?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "3958.png",
+        "query": "What's the value of the leftmost upper bar?",
+        "label": "56"
+    },
+    {
+        "imgname": "3958.png",
+        "query": "Is the average of green bars equal to two times of smallest blue bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "5137.png",
+        "query": "Which two bars are exactly similar to each other?",
+        "label": "[Medical research, Engineering and technology]"
+    },
+    {
+        "imgname": "5137.png",
+        "query": "Is the median value of green bars equals 19?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "4349.png",
+        "query": "What's the percentage of Total whose opinion is Too much?",
+        "label": "0.46"
+    },
+    {
+        "imgname": "4349.png",
+        "query": "What's the sum of all the bars above 50?",
+        "label": "164"
+    },
+    {
+        "imgname": "5280.png",
+        "query": "What is the total value of the Northern League?",
+        "label": "0.74"
+    },
+    {
+        "imgname": "5280.png",
+        "query": "Is the total of all the green bars greater than 180?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "5458.png",
+        "query": "What is the \"very\" smallest value in the graph?",
+        "label": "36"
+    },
+    {
+        "imgname": "5458.png",
+        "query": "What is the result of adding the first value of \"very\" to the fourth value of \"somewhat\"?",
+        "label": "163"
+    },
+    {
+        "imgname": "5510.png",
+        "query": "What % of the Mexican population approve of the US-Mexico border wall?",
+        "label": "5"
+    },
+    {
+        "imgname": "5510.png",
+        "query": "In how many countries do more than 12% of the respondents support the proposed US-Mexico border wall?",
+        "label": "3"
+    },
+    {
+        "imgname": "5953.png",
+        "query": "What is the value of the longest blue bar??",
+        "label": "0.55"
+    },
+    {
+        "imgname": "5953.png",
+        "query": "What is the difference between major reasons and minor reasons seen as fun??",
+        "label": "0.16"
+    },
+    {
+        "imgname": "5963.png",
+        "query": "Which country had the highest value in the Favorable group?",
+        "label": "Lebanon"
+    },
+    {
+        "imgname": "5963.png",
+        "query": "which 2 countries have the sum value in unfavorable and favorable is the same?",
+        "label": "[Turkey, MEDIAN]"
+    },
+    {
+        "imgname": "5964.png",
+        "query": "How many countries show below 7 value in Favorable?",
+        "label": "2"
+    },
+    {
+        "imgname": "5964.png",
+        "query": "Which country sum value of Unfavourable and Favourable is high?",
+        "label": "Lebanon"
+    },
+    {
+        "imgname": "6080.png",
+        "query": "What's the value of the topmost longest bar?",
+        "label": "56"
+    },
+    {
+        "imgname": "6080.png",
+        "query": "How much is the rightmost bar values greater than the leftmost largest bar value?",
+        "label": "5"
+    },
+    {
+        "imgname": "6100.png",
+        "query": "In Oct 2017, How many percentages said Falling behind?",
+        "label": "49"
+    },
+    {
+        "imgname": "6100.png",
+        "query": "In Oct 2017 What is the ratio between Staying about even vs Falling behind?",
+        "label": "1.700694444"
+    },
+    {
+        "imgname": "7032.png",
+        "query": "What is the NET value of the 1st bar?",
+        "label": "17"
+    },
+    {
+        "imgname": "7032.png",
+        "query": "What's the total add-up value of the Largest NET value and smallest NET value?",
+        "label": "90"
+    },
+    {
+        "imgname": "7326.png",
+        "query": "What is the value of the lowest green bar??",
+        "label": "3"
+    },
+    {
+        "imgname": "7326.png",
+        "query": "What is the difference between the highest green and lowest yellow value??",
+        "label": "50"
+    },
+    {
+        "imgname": "7503.png",
+        "query": "How many colors are in the bar??",
+        "label": "2"
+    },
+    {
+        "imgname": "7503.png",
+        "query": "What is the total view of whites and blacks as generally bad??",
+        "label": "106"
+    },
+    {
+        "imgname": "7574.png",
+        "query": "What's the value of the Elected officials bar?",
+        "label": "25"
+    },
+    {
+        "imgname": "7574.png",
+        "query": "What's the average of the two smallest bar?",
+        "label": "25.5"
+    },
+    {
+        "imgname": "7598.png",
+        "query": "What is the smallest value in the bars??",
+        "label": "28"
+    },
+    {
+        "imgname": "7598.png",
+        "query": "What is the total sum of college+ for unfavorable and favorable",
+        "label": "100"
+    },
+    {
+        "imgname": "8258.png",
+        "query": "What's the percentage of voters choosing most important for tax reform?",
+        "label": "17"
+    },
+    {
+        "imgname": "8258.png",
+        "query": "How many issues have more voters chosen most important than the second most important?",
+        "label": "3"
+    },
+    {
+        "imgname": "8435.png",
+        "query": "How many colors are represented in the bar??",
+        "label": "3"
+    },
+    {
+        "imgname": "8435.png",
+        "query": "What's the average value of all yellow in the chart??",
+        "label": "78"
+    },
+    {
+        "imgname": "8767.png",
+        "query": "What's the percentage of Canadians that have confidence in Obama?",
+        "label": "83"
+    },
+    {
+        "imgname": "8767.png",
+        "query": "How many countries have less than 60% of people that are confident in Obama?",
+        "label": "6"
+    },
+    {
+        "imgname": "8827.png",
+        "query": "What is the value of the smallest green bar??",
+        "label": "35"
+    },
+    {
+        "imgname": "8827.png",
+        "query": "Is the value of bad things because of lower wages and cost jobs in the U.S. higher than the Netherlands??",
+        "label": "Yes"
+    },
+    {
+        "imgname": "8846.png",
+        "query": "What is the value of the third-longest yellow bar??",
+        "label": "77"
+    },
+    {
+        "imgname": "8846.png",
+        "query": "What is the difference between the highest yellow bar and the lowest green bar??",
+        "label": "89"
+    },
+    {
+        "imgname": "8873.png",
+        "query": "What's the number of comments mentioning Donald Trump in September (in thousands)?",
+        "label": "64000"
+    },
+    {
+        "imgname": "8873.png",
+        "query": "What's the ratio of the second smallest bar and second-largest bar?",
+        "label": "0.877777778"
+    },
+    {
+        "imgname": "9120.png",
+        "query": "What's the percentage of White who trust most or all of their neighbors?",
+        "label": "62"
+    },
+    {
+        "imgname": "9120.png",
+        "query": "How many bars have a value equals to 55?",
+        "label": "2"
+    },
+    {
+        "imgname": "9344.png",
+        "query": "What's the percentage of liberals who say the economic system in this country unfairly favors powerful interests?",
+        "label": "82"
+    },
+    {
+        "imgname": "9344.png",
+        "query": "What's the ratio (A: B) of the first brown bar from the top and the smallest yellow bar?",
+        "label": "2.71875"
+    },
+    {
+        "imgname": "9432.png",
+        "query": "How many colors of bars are shown",
+        "label": "2"
+    },
+    {
+        "imgname": "9432.png",
+        "query": "Add the average net opinion and the smallest opinion",
+        "label": "59"
+    },
+    {
+        "imgname": "9580.png",
+        "query": "What group thought that they shouldn't be objected to it all the most?",
+        "label": "Liberal Dem"
+    },
+    {
+        "imgname": "9580.png",
+        "query": "What was the difference between the total of all the groups\ufffd responses?",
+        "label": "0.29"
+    },
+    {
+        "imgname": "9592.png",
+        "query": "What represents the dark yellow bar in the chart??",
+        "label": "Not too/at all well"
+    },
+    {
+        "imgname": "9592.png",
+        "query": "What's the average of the two smallest light yellow bar??",
+        "label": "32"
+    },
+    {
+        "imgname": "9599.png",
+        "query": "What's the percentage of Independent who say problems in the world would be worse without the U.S.?",
+        "label": "50"
+    },
+    {
+        "imgname": "9599.png",
+        "query": "Is the average of all the Total bars equals to the average of all the Democrat bars?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "9809.png",
+        "query": "What's the percentage of unfavorable views in China?",
+        "label": "59"
+    },
+    {
+        "imgname": "9809.png",
+        "query": "Is the value of the first two orange bars from the bottom equal?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "9818.png",
+        "query": "What's the percentage of people answering who don't know in Turkey?",
+        "label": "23"
+    },
+    {
+        "imgname": "9818.png",
+        "query": "What's the difference between Turkey and NATO median answering doesn\ufffdt know?",
+        "label": "15"
+    },
+    {
+        "imgname": "OECD_ALCOHOL_CONSUMPTION_CHL_EST_TUR_000000.png",
+        "query": "What represents the two bars in the chart?",
+        "label": "[Turkey, Estonia]"
+    },
+    {
+        "imgname": "OECD_ALCOHOL_CONSUMPTION_CHL_EST_TUR_000000.png",
+        "query": "What is the average of the two bars?",
+        "label": "5.75"
+    },
+    {
+        "imgname": "OECD_COMPUTED_TOMOGRAPHY_(CT)_EXAMS_CRI_FRA_HUN_ITA_LVA_000002.png",
+        "query": "The value of 90 represent which place?",
+        "label": "Italy"
+    },
+    {
+        "imgname": "OECD_COMPUTED_TOMOGRAPHY_(CT)_EXAMS_CRI_FRA_HUN_ITA_LVA_000002.png",
+        "query": "What is the difference in value between France and Latvia?",
+        "label": "18"
+    },
+    {
+        "imgname": "OECD_CROP_PRODUCTION_AUS_CAN_MEX_000022.png",
+        "query": "What is the amount of wheat production in 2007 in terms of tonnes/hecatares in Canada?",
+        "label": "2.3"
+    },
+    {
+        "imgname": "OECD_CROP_PRODUCTION_AUS_CAN_MEX_000022.png",
+        "query": "Is the wheat production in 2007 more in Mexico compared to the sum of the wheat production of Australia and Canada in terms of tonnes/hectares?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "OECD_FDI_INCOME_RECEIPTS_BY_PARTNER_COUNTRY_CHE_CHL_EST_ITA_NZL_000006.png",
+        "query": "What is the value of the purple bar?",
+        "label": "22.8"
+    },
+    {
+        "imgname": "OECD_FDI_INCOME_RECEIPTS_BY_PARTNER_COUNTRY_CHE_CHL_EST_ITA_NZL_000006.png",
+        "query": "What is the difference in distribution between Italy and Chile?",
+        "label": "18.4"
+    },
+    {
+        "imgname": "OECD_FDI_STOCKS_CAN_CHE_ISL_USA_000006.png",
+        "query": "What is the value of the highest bar?",
+        "label": "61.3"
+    },
+    {
+        "imgname": "OECD_FDI_STOCKS_CAN_CHE_ISL_USA_000006.png",
+        "query": "What is the total sum of FDI stocks in Canada and Ireland?",
+        "label": "120.6"
+    },
+    {
+        "imgname": "OECD_FOREIGN-BORN_EMPLOYMENT_FIN_MEX_000012.png",
+        "query": "How many color does the graph shows?",
+        "label": "2"
+    },
+    {
+        "imgname": "OECD_FOREIGN-BORN_EMPLOYMENT_FIN_MEX_000012.png",
+        "query": "From Mexico and Finland which country  has a highest value?",
+        "label": "Finland"
+    },
+    {
+        "imgname": "OECD_FOREST_RESOURCES_CHL_CZE_HUN_LUX_TUR_000015.png",
+        "query": "What's the value of smallest bar?",
+        "label": "7.1"
+    },
+    {
+        "imgname": "OECD_FOREST_RESOURCES_CHL_CZE_HUN_LUX_TUR_000015.png",
+        "query": "Does largest bar value is two times the value of smallest bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "OECD_GENERAL_GOVERNMENT_DEBT_BEL_ESP_ISR_PRT_USA_000022.png",
+        "query": "How many bar are there in the graph?",
+        "label": "4"
+    },
+    {
+        "imgname": "OECD_GENERAL_GOVERNMENT_DEBT_BEL_ESP_ISR_PRT_USA_000022.png",
+        "query": "Does the Spain and Portugal shows the same value?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "OECD_GOVERNMENT_RESEARCHERS_CHN_ESP_KOR_POL_PRT_000007.png",
+        "query": "What does the purple bar represent?",
+        "label": "Spain"
+    },
+    {
+        "imgname": "OECD_GOVERNMENT_RESEARCHERS_CHN_ESP_KOR_POL_PRT_000007.png",
+        "query": "How many countries have over 20k researchers?",
+        "label": "3"
+    },
+    {
+        "imgname": "OECD_LONG-TERM_UNEMPLOYMENT_RATE_CRI_EST_LUX_000014.png",
+        "query": "What color is the larger bar?",
+        "label": "purple"
+    },
+    {
+        "imgname": "OECD_LONG-TERM_UNEMPLOYMENT_RATE_CRI_EST_LUX_000014.png",
+        "query": "What's the ratio of two bars?",
+        "label": "0.48708"
+    },
+    {
+        "imgname": "OECD_MATHEMATICS_PERFORMANCE_(PISA)_IDN_MAC_NLD_SGP_000000.png",
+        "query": "What's the value of longest bar?",
+        "label": "519"
+    },
+    {
+        "imgname": "OECD_MATHEMATICS_PERFORMANCE_(PISA)_IDN_MAC_NLD_SGP_000000.png",
+        "query": "What is the sum value of both the bars?",
+        "label": "898"
+    },
+    {
+        "imgname": "OECD_MUNICIPAL_WASTE_DEU_FIN_000009.png",
+        "query": "What's the color Germany bar?",
+        "label": "Red"
+    },
+    {
+        "imgname": "OECD_MUNICIPAL_WASTE_DEU_FIN_000009.png",
+        "query": "What's the average of Finland and Germany?",
+        "label": "539.5"
+    },
+    {
+        "imgname": "OECD_UNEMPLOYMENT_RATE_BY_AGE_GROUP_AUS_CAN_CHL_COL_FIN_000002.png",
+        "query": "Which country has the largest bar?",
+        "label": "Colombia"
+    },
+    {
+        "imgname": "OECD_UNEMPLOYMENT_RATE_BY_AGE_GROUP_AUS_CAN_CHL_COL_FIN_000002.png",
+        "query": "Does the difference of largest and 2nd largest bar value is greater then the value of smallest bar?",
+        "label": "No"
+    },
+    {
+        "imgname": "10129.png",
+        "query": "Which value is represented by yellow color?",
+        "label": "No confidence"
+    },
+    {
+        "imgname": "10129.png",
+        "query": "Which leader got the maximum difference between confidence and no confidence?",
+        "label": "Abe"
+    },
+    {
+        "imgname": "10199.png",
+        "query": "What are the two years used in the chart?",
+        "label": "[2000, 2015]"
+    },
+    {
+        "imgname": "10199.png",
+        "query": "Which political party is more likely to choose too much?",
+        "label": "Liberal Democrats/Dem leaners"
+    },
+    {
+        "imgname": "10215.png",
+        "query": "Which option has most people choosing no?",
+        "label": "More angry and frustrated"
+    },
+    {
+        "imgname": "10215.png",
+        "query": "How many options have over 40% people choosing no?",
+        "label": "2"
+    },
+    {
+        "imgname": "10303.png",
+        "query": "How many countries are included in the chart?",
+        "label": "6"
+    },
+    {
+        "imgname": "10303.png",
+        "query": "Is median value of mostly positive larger than that of the average between the largest and smallest?",
+        "label": "No"
+    },
+    {
+        "imgname": "10533.png",
+        "query": "How many believe U.S. will come to defense of allies in Italy?",
+        "label": "0.68"
+    },
+    {
+        "imgname": "10533.png",
+        "query": "What is the median that believe U.S. will not come to defense of allies in Poland, France and UK?",
+        "label": "31"
+    },
+    {
+        "imgname": "10733.png",
+        "query": "What is leftmost color of each bar?",
+        "label": "orange"
+    },
+    {
+        "imgname": "10733.png",
+        "query": "What is the average of responses that say both Germany and US should help other countries deal with their problems?",
+        "label": "0.41"
+    },
+    {
+        "imgname": "10735.png",
+        "query": "Which country wants to limit its military role?",
+        "label": "Germany"
+    },
+    {
+        "imgname": "10735.png",
+        "query": "What's the difference between two countries in limit its military role?",
+        "label": "32"
+    },
+    {
+        "imgname": "10744.png",
+        "query": "Which value is represented by yellow color?",
+        "label": "Right decision"
+    },
+    {
+        "imgname": "10744.png",
+        "query": "What is the difference between percentage of whites  who said the decision is right and the republicans who said that the decision is wrong?",
+        "label": "27"
+    },
+    {
+        "imgname": "10772.png",
+        "query": "What's the percentage of working people answering don't know/other?",
+        "label": "9"
+    },
+    {
+        "imgname": "10772.png",
+        "query": "Which side is more positive toward reduction of union membership?",
+        "label": "Country"
+    },
+    {
+        "imgname": "10853.png",
+        "query": "How many categories are featured in the graph?",
+        "label": "5"
+    },
+    {
+        "imgname": "10853.png",
+        "query": "Which category has the highest percentage of a lot?",
+        "label": "The feeling that some corporations don't pay their fair share"
+    },
+    {
+        "imgname": "10893.png",
+        "query": "Which Republican has the highest blue bar?",
+        "label": "Bobby Jindal"
+    },
+    {
+        "imgname": "10893.png",
+        "query": "What is the difference between the number of people that has never heard of Bobby Jindal and Rick Perry?",
+        "label": "31"
+    },
+    {
+        "imgname": "85839291000279.png",
+        "query": "What country has the value of less then 25% in primary school enrollment?",
+        "label": "[Sri Lanka, Mali]"
+    },
+    {
+        "imgname": "85839291000279.png",
+        "query": "What is the difference in the number of primary school enrollment between Netherlands and Mexico?",
+        "label": "0.518"
+    },
+    {
+        "imgname": "86398352001580.png",
+        "query": "What is the sum of public and private annual health expenditure per person in Slovenia (in dollar)?",
+        "label": "972.27"
+    },
+    {
+        "imgname": "86398352001580.png",
+        "query": "What is the median of all the bars?",
+        "label": "616.85"
+    },
+    {
+        "imgname": "87453827004907.png",
+        "query": "Which category shown in Grey bar?",
+        "label": "Female"
+    },
+    {
+        "imgname": "87453827004907.png",
+        "query": "How many times Male data higher that Female data?",
+        "label": "0.63"
+    },
+    {
+        "imgname": "87563418009479.png",
+        "query": "Which age group is represented by the pink color?",
+        "label": "70+ years old"
+    },
+    {
+        "imgname": "87563418009479.png",
+        "query": "What is the difference between the maximum and minimum anxiety disorders rate over the different age groups?",
+        "label": "414.14"
+    },
+    {
+        "imgname": "87897560003131.png",
+        "query": "What is the percentage value of New Zealand?",
+        "label": "13.2"
+    },
+    {
+        "imgname": "87897560003131.png",
+        "query": "Is the Difference of Orange and Grey bar more then 2?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "88449457009234.png",
+        "query": "What is the number of disease burdan rate from cancer in Qatar?",
+        "label": "2729.74"
+    },
+    {
+        "imgname": "88449457009234.png",
+        "query": "What is the sum in the number of disease burdan rate from cancer in both countries?",
+        "label": "4646.45"
+    },
+    {
+        "imgname": "91892548007153.png",
+        "query": "What is the intensity error measured in 24 hours?",
+        "label": "10.2"
+    },
+    {
+        "imgname": "91892548007153.png",
+        "query": "What is the sum of all measures of intensity error?",
+        "label": "42.2"
+    },
+    {
+        "imgname": "94158138010288.png",
+        "query": "What country is represented by the purple bar?",
+        "label": "Uruguay"
+    },
+    {
+        "imgname": "94158138010288.png",
+        "query": "What is the median in the percentage of adequacy of unemployment benefits?",
+        "label": "0.2128"
+    },
+    {
+        "imgname": "96980063004330.png",
+        "query": "Which country is represented by the brown color bar?",
+        "label": "Central African Republic"
+    },
+    {
+        "imgname": "96980063004330.png",
+        "query": "What is the average of Education spending rate of Malaysia and Austria?",
+        "label": "0.1621"
+    },
+    {
+        "imgname": "98750751007222.png",
+        "query": "Which event is represented by violet color bar?",
+        "label": "Tornado"
+    },
+    {
+        "imgname": "98750751007222.png",
+        "query": "What is the difference between fatality rate of Flood and Hurricane?",
+        "label": "0.4"
+    },
+    {
+        "imgname": "OECD_CRUDE_OIL_PRODUCTION_JPN_LVA_MNG_PER_PRY_000113.png",
+        "query": "Which country data shown in Green color?",
+        "label": "Peru"
+    },
+    {
+        "imgname": "OECD_CRUDE_OIL_PRODUCTION_JPN_LVA_MNG_PER_PRY_000113.png",
+        "query": "How many years peru data higher than the 9k?",
+        "label": "5"
+    },
+    {
+        "imgname": "OECD_EMPLOYMENT_RATE_PRT_USA_000093.png",
+        "query": "Which country is represented by the red color line in the given graph?",
+        "label": "United States"
+    },
+    {
+        "imgname": "OECD_EMPLOYMENT_RATE_PRT_USA_000093.png",
+        "query": "Which year recorded the lowest employment rate in United States?",
+        "label": "1982"
+    },
+    {
+        "imgname": "OECD_ENVIRONMENTAL_TAX_CAN_LVA_POL_000044.png",
+        "query": "Which country is represented by blue line?",
+        "label": "Latvia"
+    },
+    {
+        "imgname": "OECD_ENVIRONMENTAL_TAX_CAN_LVA_POL_000044.png",
+        "query": "In which year, Environmental tax is maximum in Latvia?",
+        "label": "1998"
+    },
+    {
+        "imgname": "OECD_FDI_FLOWS_EST_ISL_NOR_POL_SVK_000043.png",
+        "query": "How many countries/regions are represented on this graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "OECD_FDI_FLOWS_EST_ISL_NOR_POL_SVK_000043.png",
+        "query": "What year did Norway have the greatest increase?",
+        "label": "2014"
+    },
+    {
+        "imgname": "OECD_FDI_INCOME_RECEIPTS_BY_INDUSTRY_AUT_LVA_000018.png",
+        "query": "Which country does the blue line represent?",
+        "label": "Latvia"
+    },
+    {
+        "imgname": "OECD_FDI_INCOME_RECEIPTS_BY_INDUSTRY_AUT_LVA_000018.png",
+        "query": "When does the gap between two countries become biggest?",
+        "label": "2015"
+    },
+    {
+        "imgname": "OECD_FOREIGN-BORN_UNEMPLOYMENT_IRL_NZL_SVK_SWE_USA_000028.png",
+        "query": "At how many points did the lines representing Ireland and Sweden crossed each other?",
+        "label": "1"
+    },
+    {
+        "imgname": "OECD_FOREIGN-BORN_UNEMPLOYMENT_IRL_NZL_SVK_SWE_USA_000028.png",
+        "query": "Which year recorded the highest foreign born unemployment in Slovak Republic?",
+        "label": "2011"
+    },
+    {
+        "imgname": "OECD_LONG-TERM_INTEREST_RATES_FORECAST_BEL_DEU_IND_POL_000066.png",
+        "query": "How many colours are appear in the bar graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "OECD_LONG-TERM_INTEREST_RATES_FORECAST_BEL_DEU_IND_POL_000066.png",
+        "query": "What is the difference between highest value and lowest value of belgium?",
+        "label": "7.4"
+    },
+    {
+        "imgname": "OECD_PHARMACEUTICAL_SPENDING_CAN_PRT_000070.png",
+        "query": "Which country is represented by blue color line?",
+        "label": "Portugal"
+    },
+    {
+        "imgname": "OECD_PHARMACEUTICAL_SPENDING_CAN_PRT_000070.png",
+        "query": "Which year recorded the maximum Pharmaceutical spending by Canada?",
+        "label": "1999"
+    },
+    {
+        "imgname": "OECD_SELF-EMPLOYED_WITH_EMPLOYEES_ESP_TUR_ZAF_000026.png",
+        "query": "How many countries are shown in the graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "OECD_SELF-EMPLOYED_WITH_EMPLOYEES_ESP_TUR_ZAF_000026.png",
+        "query": "When does the sum of three countries become biggest?",
+        "label": "2010"
+    },
+    {
+        "imgname": "OECD_SOCIAL_SECURITY_CONTRIBUTIONS_CHE_CHL_GBR_HUN_SVK_000133.png",
+        "query": "Which country is represented by the blue color line?",
+        "label": "Chile"
+    },
+    {
+        "imgname": "OECD_SOCIAL_SECURITY_CONTRIBUTIONS_CHE_CHL_GBR_HUN_SVK_000133.png",
+        "query": "At how many point , the lines representing Hungary and Slovak Republic crosses each other?",
+        "label": "4"
+    },
+    {
+        "imgname": "two_col_152.png",
+        "query": "Which year there is least number of law enforcement officers ?",
+        "label": "2013"
+    },
+    {
+        "imgname": "two_col_152.png",
+        "query": "what is the difference between 2008 and 2019 in the numbers ?",
+        "label": "11374"
+    },
+    {
+        "imgname": "two_col_226.png",
+        "query": "Which country has the most sexcual encounters in year by person?",
+        "label": "Greece"
+    },
+    {
+        "imgname": "two_col_226.png",
+        "query": "How many sexual encounters to China and Mexico have combined?",
+        "label": "245"
+    },
+    {
+        "imgname": "two_col_238.png",
+        "query": "What is the leading cuase of death among blacks for US resident ins 2018?",
+        "label": "Diseases of the heart"
+    },
+    {
+        "imgname": "two_col_238.png",
+        "query": "What's the total percentge of deaths combined of Assault and Septicemia?",
+        "label": "4.7"
+    },
+    {
+        "imgname": "two_col_322.png",
+        "query": "Who on YouTube has the least number of subscribers in May 2021?",
+        "label": "Carli Bybel"
+    },
+    {
+        "imgname": "two_col_322.png",
+        "query": "What is the median number of subscribers?",
+        "label": "10.75"
+    },
+    {
+        "imgname": "two_col_327.png",
+        "query": "In what year did the inflation rate reached its highest point?",
+        "label": "2011"
+    },
+    {
+        "imgname": "two_col_327.png",
+        "query": "Is the inflation rate difference between 2011 and 2012 bigger than the difference of 2019 and 2021?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_353.png",
+        "query": "What category has the highest value?",
+        "label": "Confirmed"
+    },
+    {
+        "imgname": "two_col_353.png",
+        "query": "What is the number of recovered cases?",
+        "label": "5790113"
+    },
+    {
+        "imgname": "two_col_96.png",
+        "query": "What year was the highest point recorded?",
+        "label": "2026"
+    },
+    {
+        "imgname": "two_col_96.png",
+        "query": "What is the difference between the highest point and the lowest point in dollars?",
+        "label": "23079.52"
+    },
+    {
+        "imgname": "two_col_60700.png",
+        "query": "Which age group has the highest share of respondents?",
+        "label": "25-29"
+    },
+    {
+        "imgname": "two_col_60700.png",
+        "query": "What is the average of respondents under the age of 30?",
+        "label": "56.2"
+    },
+    {
+        "imgname": "two_col_60813.png",
+        "query": "What was the average age of the Russian population in 1990?",
+        "label": "34.9"
+    },
+    {
+        "imgname": "two_col_60813.png",
+        "query": "What is the difference between the average age of the Russian population between the years 1990 and 2019?",
+        "label": "5.1"
+    },
+    {
+        "imgname": "two_col_61090.png",
+        "query": "In what year did the number of fatalities peak?",
+        "label": "2008"
+    },
+    {
+        "imgname": "two_col_61090.png",
+        "query": "What was the average of fatalities form 2000 to 2005?",
+        "label": "197.33"
+    },
+    {
+        "imgname": "two_col_61379.png",
+        "query": "When did car sales peak?",
+        "label": "2016"
+    },
+    {
+        "imgname": "two_col_61379.png",
+        "query": "What is the average for the last 4 years?",
+        "label": "8839.75"
+    },
+    {
+        "imgname": "two_col_61678.png",
+        "query": "What's the historical highest number of employees?",
+        "label": "7080"
+    },
+    {
+        "imgname": "two_col_61678.png",
+        "query": "For how many months is the number of employees below 5000?",
+        "label": "3"
+    },
+    {
+        "imgname": "two_col_61708.png",
+        "query": "Is the color of the leftmost bar gray?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_61708.png",
+        "query": "Is the sum of the leftmost two bars greater than the largest bar?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_62100.png",
+        "query": "Identify the region which has least area?",
+        "label": "Scotland"
+    },
+    {
+        "imgname": "two_col_62100.png",
+        "query": "What is the ratio between scotland and england?",
+        "label": "0.0197"
+    },
+    {
+        "imgname": "two_col_62228.png",
+        "query": "In which month and year there was highest price of sugar?",
+        "label": "2/2021"
+    },
+    {
+        "imgname": "two_col_62228.png",
+        "query": "What is the difference of food price in the 4th and 12 month of the year 2020?",
+        "label": "23.9"
+    },
+    {
+        "imgname": "two_col_62313.png",
+        "query": "How many people cancelled holiday plans due to covid 19 in mexico?",
+        "label": "91"
+    },
+    {
+        "imgname": "two_col_62313.png",
+        "query": "How many people enjoyed holiday plans due to covid 19 in mexico?",
+        "label": "9"
+    },
+    {
+        "imgname": "two_col_62353.png",
+        "query": "What's the value of largest bar?",
+        "label": "3.52"
+    },
+    {
+        "imgname": "two_col_62353.png",
+        "query": "How many bars are shorter than the bar with a 1.88 value?",
+        "label": "3"
+    },
+    {
+        "imgname": "two_col_62359.png",
+        "query": "How many bars are above 5000?",
+        "label": "2"
+    },
+    {
+        "imgname": "two_col_62359.png",
+        "query": "Which region's revenue is bigger, Europe, Middle East and Africa, or Latin America and Asia Pacific combined together?",
+        "label": "Europe, Middle East, and Africa"
+    },
+    {
+        "imgname": "two_col_62366.png",
+        "query": "Which segment is less than 1/3 of the light blue segment?",
+        "label": "red"
+    },
+    {
+        "imgname": "two_col_62366.png",
+        "query": "How much is the sum of sales from golf balls, gear and accessories and apparel bigger than that from golf clubs?",
+        "label": "9.6"
+    },
+    {
+        "imgname": "two_col_62379.png",
+        "query": "Which country leads?",
+        "label": "United Kingdom"
+    },
+    {
+        "imgname": "two_col_62379.png",
+        "query": "What is the total number of patients in Wales and Northern Ireland?",
+        "label": "7480"
+    },
+    {
+        "imgname": "two_col_63697.png",
+        "query": "Which year has a negative price index?",
+        "label": "2009"
+    },
+    {
+        "imgname": "two_col_63697.png",
+        "query": "What is the mode?",
+        "label": "3"
+    },
+    {
+        "imgname": "two_col_80813.png",
+        "query": "What's the percentage market share of Spain in European investment funds in 2018?",
+        "label": "2"
+    },
+    {
+        "imgname": "two_col_80813.png",
+        "query": "What's the ratio of red segment and largest segment of pie?",
+        "label": "0.444444444"
+    },
+    {
+        "imgname": "two_col_81085.png",
+        "query": "What's the most popular website?",
+        "label": "Google Maps"
+    },
+    {
+        "imgname": "two_col_81085.png",
+        "query": "How much share do the top three website have?",
+        "label": "17.77"
+    },
+    {
+        "imgname": "two_col_81160.png",
+        "query": "What's the most popular time in the chart?",
+        "label": "During the weekend"
+    },
+    {
+        "imgname": "two_col_81160.png",
+        "query": "What's the ratio of weekend and weekday?",
+        "label": "1.37704918"
+    },
+    {
+        "imgname": "two_col_81973.png",
+        "query": "What does the 3% bar represent?",
+        "label": "Don't know/ refused"
+    },
+    {
+        "imgname": "two_col_81973.png",
+        "query": "How much are all the important opinions more than the unimportant opinions?",
+        "label": "76"
+    },
+    {
+        "imgname": "two_col_82082.png",
+        "query": "What is the third longest bar value?",
+        "label": "Alkermes"
+    },
+    {
+        "imgname": "two_col_82082.png",
+        "query": "What is the average market capitalization of the companies having under $20000 million market capitalization?",
+        "label": "1249.5"
+    },
+    {
+        "imgname": "two_col_82115.png",
+        "query": "Pharmacies were what percentage of global hearing aid market share in 2018?",
+        "label": "20"
+    },
+    {
+        "imgname": "two_col_82115.png",
+        "query": "Hospitals and Audiology and ENT Clinics accounted for what percentage of global hearing aid market share in 2018?",
+        "label": "80"
+    },
+    {
+        "imgname": "two_col_82294.png",
+        "query": "Which color does Right wing indicate?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "two_col_82294.png",
+        "query": "Which has a difference of 10%, when compared with Left wing?",
+        "label": "Center (5)"
+    },
+    {
+        "imgname": "two_col_83338.png",
+        "query": "In which year there was 2148 number of accidents on highway ?",
+        "label": "2018"
+    },
+    {
+        "imgname": "two_col_83338.png",
+        "query": "Is the value of number of accidents in 2017 more then 2012?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_83430.png",
+        "query": "How much grape fruit is produced in Greece?",
+        "label": "5.16"
+    },
+    {
+        "imgname": "two_col_83430.png",
+        "query": "By how much percentage is Portugal higher than Cyprus?",
+        "label": "191"
+    },
+    {
+        "imgname": "two_col_83449.png",
+        "query": "Which option dominates the graph?",
+        "label": "Remained the same"
+    },
+    {
+        "imgname": "two_col_83449.png",
+        "query": "What is the total percentage of decreased and increased?",
+        "label": "30"
+    },
+    {
+        "imgname": "two_col_83495.png",
+        "query": "Which is the lowest in Main export partners in 2017?",
+        "label": "India"
+    },
+    {
+        "imgname": "two_col_83495.png",
+        "query": "What is the difference between Turkey and Germany as Main export partners in 2017?",
+        "label": "10"
+    },
+    {
+        "imgname": "two_col_83499.png",
+        "query": "Which location has the least number of diabetics?",
+        "label": "Rural"
+    },
+    {
+        "imgname": "two_col_83499.png",
+        "query": "How many number of diabetics that Urban has more than rural ?",
+        "label": "157.7"
+    },
+    {
+        "imgname": "two_col_100044.png",
+        "query": "Which has the highest share?",
+        "label": "Coach"
+    },
+    {
+        "imgname": "two_col_100044.png",
+        "query": "What is the ratio of coach to Stuart Weizmann?",
+        "label": "11.83333333"
+    },
+    {
+        "imgname": "two_col_100108.png",
+        "query": "What is the value of the highest bar?",
+        "label": "71074"
+    },
+    {
+        "imgname": "two_col_100108.png",
+        "query": "What is the total of the blue bars?",
+        "label": "72771"
+    },
+    {
+        "imgname": "two_col_100326.png",
+        "query": "Does the number of marriages increase or decrease?",
+        "label": "decreasing"
+    },
+    {
+        "imgname": "two_col_100326.png",
+        "query": "What is the sum of 2017 and 2018?",
+        "label": "99375"
+    },
+    {
+        "imgname": "two_col_100333.png",
+        "query": "Which share has a negative share price?",
+        "label": "Abbott Molecular (18 March, RealTime Sars-CoV-2 assay)"
+    },
+    {
+        "imgname": "two_col_100333.png",
+        "query": "What is the sum of highest two values?",
+        "label": "67"
+    },
+    {
+        "imgname": "two_col_100370.png",
+        "query": "Which year has the highest enterprises?",
+        "label": "2018"
+    },
+    {
+        "imgname": "two_col_100370.png",
+        "query": "What is the sum of mode and least value?",
+        "label": "49"
+    },
+    {
+        "imgname": "two_col_100378.png",
+        "query": "How many people say Canadian bacon?",
+        "label": "35"
+    },
+    {
+        "imgname": "two_col_100378.png",
+        "query": "What is the total of least three values?",
+        "label": "18"
+    },
+    {
+        "imgname": "two_col_100575.png",
+        "query": "Which country is in fourth place in the rank?",
+        "label": "Ethiopia"
+    },
+    {
+        "imgname": "two_col_100575.png",
+        "query": "What is the average between the ranked countries?",
+        "label": "100050"
+    },
+    {
+        "imgname": "two_col_100600.png",
+        "query": "What is the highest peak number on the chart?",
+        "label": "26391"
+    },
+    {
+        "imgname": "two_col_100600.png",
+        "query": "What is the sum of production between the years 1960-2018 and 2019?",
+        "label": "13545"
+    },
+    {
+        "imgname": "two_col_100672.png",
+        "query": "Which OS has larger percentage?",
+        "label": "Android 2.3"
+    },
+    {
+        "imgname": "two_col_100672.png",
+        "query": "Which OS has smaller percentage?",
+        "label": "iPhone 4.3"
+    },
+    {
+        "imgname": "two_col_100859.png",
+        "query": "Which year has 845 million U.S dollars?",
+        "label": "2016"
+    },
+    {
+        "imgname": "two_col_100859.png",
+        "query": "WHat is the difference between the highest and lowest values?",
+        "label": "512"
+    },
+    {
+        "imgname": "two_col_100965.png",
+        "query": "Which player has the second highest fans?",
+        "label": "Louis Picamoles"
+    },
+    {
+        "imgname": "two_col_100965.png",
+        "query": "What is the mode?",
+        "label": "7"
+    },
+    {
+        "imgname": "two_col_100973.png",
+        "query": "What is the % of people who are not at all familiar with HomeAway or VRBO in 2018?",
+        "label": "45"
+    },
+    {
+        "imgname": "two_col_100973.png",
+        "query": "What percentage of people in the US are atleast somewhat familiar with HomeAway or VRBO in 2018?",
+        "label": "28"
+    },
+    {
+        "imgname": "two_col_100988.png",
+        "query": "What percentage say that the company's revenue decreased by 76-100 percent compared to the previous year?",
+        "label": "7"
+    },
+    {
+        "imgname": "two_col_100988.png",
+        "query": "What percentage say that the company's revenue decrease 51 percent or more compared to the previous year?",
+        "label": "6"
+    },
+    {
+        "imgname": "two_col_101093.png",
+        "query": "What is the number of stores in 2018?",
+        "label": "1258"
+    },
+    {
+        "imgname": "two_col_101093.png",
+        "query": "What is the sum of the middle two values?",
+        "label": "2461"
+    },
+    {
+        "imgname": "two_col_101106.png",
+        "query": "What is the value of Financial assets of private pension funds in the United States in the year 2010 (in billion U.S. dollars)?",
+        "label": "6604"
+    },
+    {
+        "imgname": "two_col_101106.png",
+        "query": "For how many years has the inancial assets of private pension funds in the United States from 2000 to 2018 (in billion U.S. dollars) exceeded 9000?",
+        "label": "3"
+    },
+    {
+        "imgname": "two_col_101136.png",
+        "query": "Which scale has the highest share?",
+        "label": "10"
+    },
+    {
+        "imgname": "two_col_101136.png",
+        "query": "Which two consecutive scale point has a difference of 7%?",
+        "label": "[6, 7]"
+    },
+    {
+        "imgname": "two_col_101184.png",
+        "query": "What is the maximum live births?",
+        "label": "26.1"
+    },
+    {
+        "imgname": "two_col_101184.png",
+        "query": "What is the sum of 2015 and 2016?",
+        "label": "36.7"
+    },
+    {
+        "imgname": "two_col_101226.png",
+        "query": "How many people are very interested?",
+        "label": "20"
+    },
+    {
+        "imgname": "two_col_101226.png",
+        "query": "What is the ratio of very interested to somewhat interested?",
+        "label": "0.571428571"
+    },
+    {
+        "imgname": "two_col_101230.png",
+        "query": "Which dominates the chart?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_101230.png",
+        "query": "What is the difference between yes and no?",
+        "label": "88"
+    },
+    {
+        "imgname": "two_col_101432.png",
+        "query": "Which country is second dominant in the chart?",
+        "label": "South Korea"
+    },
+    {
+        "imgname": "two_col_101432.png",
+        "query": "By how much is China greater than South korea?",
+        "label": "40.2"
+    },
+    {
+        "imgname": "two_col_101562.png",
+        "query": "How many years have the same least value?",
+        "label": "2"
+    },
+    {
+        "imgname": "two_col_101562.png",
+        "query": "What is the difference between the mode and the highest value?",
+        "label": "0"
+    },
+    {
+        "imgname": "two_col_102142.png",
+        "query": "Which has a least percentage?",
+        "label": "Business spending"
+    },
+    {
+        "imgname": "two_col_102142.png",
+        "query": "WHat is the difference between the Leisure and Business spending?",
+        "label": "88"
+    },
+    {
+        "imgname": "two_col_102203.png",
+        "query": "Which colored segment forms a right angle?",
+        "label": "blue"
+    },
+    {
+        "imgname": "two_col_102203.png",
+        "query": "Are there more people knowing to some degree ESM than people not knowing it at all?",
+        "label": "No"
+    },
+    {
+        "imgname": "two_col_102420.png",
+        "query": "Which region has 92470 Consumption?",
+        "label": "Europe"
+    },
+    {
+        "imgname": "two_col_102420.png",
+        "query": "What is the sum value of region North America and Africa?",
+        "label": "84511"
+    },
+    {
+        "imgname": "two_col_102454.png",
+        "query": "Which year has 8906.55?",
+        "label": "2019"
+    },
+    {
+        "imgname": "two_col_102454.png",
+        "query": "WHat is the sum of 2016 and 2017?",
+        "label": "14990.95"
+    },
+    {
+        "imgname": "two_col_102475.png",
+        "query": "How many people are comfortable?",
+        "label": "37"
+    },
+    {
+        "imgname": "two_col_102475.png",
+        "query": "What is the difference of comfortable to don't know?",
+        "label": "35"
+    },
+    {
+        "imgname": "two_col_102620.png",
+        "query": "What does grey indicate?",
+        "label": "I don't know"
+    },
+    {
+        "imgname": "two_col_102620.png",
+        "query": "What is the sum other than yes?",
+        "label": "30"
+    },
+    {
+        "imgname": "two_col_102662.png",
+        "query": "Which year has the highest imports?",
+        "label": "2018"
+    },
+    {
+        "imgname": "two_col_102662.png",
+        "query": "What is the median of last three years?",
+        "label": "51.86"
+    },
+    {
+        "imgname": "two_col_103000.png",
+        "query": "How many years have a value of 39.7?",
+        "label": "1"
+    },
+    {
+        "imgname": "two_col_103000.png",
+        "query": "How many years have weekly hours above 40?",
+        "label": "8"
+    },
+    {
+        "imgname": "two_col_103040.png",
+        "query": "Which region dominates the pie chart?",
+        "label": "The Americas"
+    },
+    {
+        "imgname": "two_col_103040.png",
+        "query": "What is the sum of Asia and EMEA?",
+        "label": "32.05"
+    },
+    {
+        "imgname": "two_col_103074.png",
+        "query": "What is the colour of wholesale in pie segment?",
+        "label": "blue"
+    },
+    {
+        "imgname": "two_col_103074.png",
+        "query": "Is the value of Directly Operated Store same as Wholesale?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_103242.png",
+        "query": "How many segments are there?",
+        "label": "4"
+    },
+    {
+        "imgname": "two_col_103242.png",
+        "query": "What is the sum of the largest and  second largest portion?",
+        "label": "94.6"
+    },
+    {
+        "imgname": "two_col_103439.png",
+        "query": "Which year has a drastic increase in employment rate?",
+        "label": "2019"
+    },
+    {
+        "imgname": "two_col_103439.png",
+        "query": "Which year has a employment rate of 70%?",
+        "label": "2016"
+    },
+    {
+        "imgname": "two_col_103967.png",
+        "query": "How many years have an index greater than 17?",
+        "label": "1"
+    },
+    {
+        "imgname": "two_col_103967.png",
+        "query": "WHat is the sum of indexes except 2017?",
+        "label": "95.61"
+    },
+    {
+        "imgname": "two_col_103981.png",
+        "query": "What is the colour of Yes in Pie segment?",
+        "label": "Light Blue"
+    },
+    {
+        "imgname": "two_col_103981.png",
+        "query": "What is the difference in Yes and NO in Pie segment ?",
+        "label": "28"
+    },
+    {
+        "imgname": "two_col_104126.png",
+        "query": "How many people want to stay update?",
+        "label": "34.12"
+    },
+    {
+        "imgname": "two_col_104126.png",
+        "query": "What is the ratio of yes to no?",
+        "label": "0.518"
+    },
+    {
+        "imgname": "two_col_104252.png",
+        "query": "The line graph starts from what value?",
+        "label": "0"
+    },
+    {
+        "imgname": "two_col_104252.png",
+        "query": "Which year generated the least increase in penetration rate?",
+        "label": "2011"
+    },
+    {
+        "imgname": "two_col_104272.png",
+        "query": "What is the color of the dominating segment?",
+        "label": "blue"
+    },
+    {
+        "imgname": "two_col_104272.png",
+        "query": "Are the combined sales from countries other than China less than that of China?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_104798.png",
+        "query": "Is the graph increasing or decreasing?",
+        "label": "decreasing"
+    },
+    {
+        "imgname": "two_col_104798.png",
+        "query": "How many years have value below 100?",
+        "label": "0"
+    },
+    {
+        "imgname": "two_col_104875.png",
+        "query": "How many opinions have been taken?",
+        "label": "5"
+    },
+    {
+        "imgname": "two_col_104875.png",
+        "query": "How many people support?",
+        "label": "59.9"
+    },
+    {
+        "imgname": "two_col_858.png",
+        "query": "What is the Total number of registered ice hockey players in Canada from in 2010-2011?",
+        "label": "572411"
+    },
+    {
+        "imgname": "two_col_858.png",
+        "query": "What is the Total number of registered ice hockey players in Canada from in 2010-2012?",
+        "label": "1189518"
+    },
+    {
+        "imgname": "two_col_1389.png",
+        "query": "Do men or women have more COVID number of of cornavirus patients in intensive care in Sweden?",
+        "label": "Men"
+    },
+    {
+        "imgname": "two_col_1389.png",
+        "query": "what's the total amount COVID-19 patients in intensiv care in Sweden",
+        "label": "4275"
+    },
+    {
+        "imgname": "two_col_2099.png",
+        "query": "Which five states of the same smoke rate among adults in 2019?",
+        "label": "[Mississippi, Alabama, Arkansas, Tennessee, Missouri]"
+    },
+    {
+        "imgname": "two_col_2099.png",
+        "query": "Which is the average smoking rate in 2019?",
+        "label": "21"
+    },
+    {
+        "imgname": "two_col_1355.png",
+        "query": "What area has most rainfall days?",
+        "label": "Rochester, New York"
+    },
+    {
+        "imgname": "two_col_1355.png",
+        "query": "How many areas located in NY are in the chart?",
+        "label": "2"
+    },
+    {
+        "imgname": "two_col_1271.png",
+        "query": "In which year the average number of employees working in H&M were minimum?",
+        "label": "2005"
+    },
+    {
+        "imgname": "two_col_1271.png",
+        "query": "What is the difference between the maximum average number of employees working in H&M in an year and the minimum average number of employees working in an year?",
+        "label": "91762"
+    },
+    {
+        "imgname": "two_col_576.png",
+        "query": "Which in goods imports in the United Kingdom in 2020/21, by commodity (in million GBP) has the most?",
+        "label": "Machinery and transport equipment"
+    },
+    {
+        "imgname": "two_col_576.png",
+        "query": "What's the total of good imports in teh UK in 2020/21 of Unspecified Goal or Animal and Vegatiable oils and fats?",
+        "label": "8657"
+    },
+    {
+        "imgname": "two_col_1983.png",
+        "query": "What is the Operating profit of the H&M Group worldwide in 2020?",
+        "label": "334.04"
+    },
+    {
+        "imgname": "two_col_1983.png",
+        "query": "What is the average Operating profit of the H&M Group worldwide from 2019 to 2020?",
+        "label": "1073.98"
+    },
+    {
+        "imgname": "two_col_2421.png",
+        "query": "What's the  Average annual wages in Greece on 2012?",
+        "label": "18508"
+    },
+    {
+        "imgname": "two_col_2421.png",
+        "query": "What's the Average annual wages in Greece from 2017 to 2019 (in euros)?",
+        "label": "17490"
+    },
+    {
+        "imgname": "two_col_3675.png",
+        "query": "What year did ships carry the 3rd most trade?",
+        "label": "2015"
+    },
+    {
+        "imgname": "two_col_3675.png",
+        "query": "What was the combined number carried by ships for the lowest 2 years?",
+        "label": "254"
+    },
+    {
+        "imgname": "two_col_3872.png",
+        "query": "What year did Tiffany and Co. have the 2nd most net sales?",
+        "label": "2019"
+    },
+    {
+        "imgname": "two_col_3872.png",
+        "query": "How much did Tiffany and Co.'s net sales change from 2018 to 2019?",
+        "label": "18.1"
+    },
+    {
+        "imgname": "two_col_3941.png",
+        "query": "What is the foreign exchange earnings from tourism in India from 2020 (in billion U.S. dollars)?",
+        "label": "6.15"
+    },
+    {
+        "imgname": "two_col_3941.png",
+        "query": "What is the total foreign exchange earnings from tourism in India from 2019 to 2020 (in billion U.S. dollars)?",
+        "label": "36.11"
+    },
+    {
+        "imgname": "two_col_2544.png",
+        "query": "What is the average of the tallest and the shortest blue bars?",
+        "label": "531139.5"
+    },
+    {
+        "imgname": "two_col_2544.png",
+        "query": "In which year was the increase of registered ice hockey players the greatest?",
+        "label": "2014/15"
+    },
+    {
+        "imgname": "two_col_2657.png",
+        "query": "What is the difference between highest point and lowest point",
+        "label": "3"
+    },
+    {
+        "imgname": "two_col_2657.png",
+        "query": "What is the value of highest point?",
+        "label": "16"
+    },
+    {
+        "imgname": "two_col_4136.png",
+        "query": "How many U.S. presidents have been Federalists between 1789 and 2021?",
+        "label": "1"
+    },
+    {
+        "imgname": "two_col_4136.png",
+        "query": "What is total number of U.S. presidents who have been either a Demorat or a Republican?",
+        "label": "36"
+    },
+    {
+        "imgname": "two_col_4558.png",
+        "query": "What is the FIFA World Ranking of the Cura\u00e7ao national football team in the year 2017",
+        "label": "83"
+    },
+    {
+        "imgname": "two_col_4558.png",
+        "query": "What is the change in the ranking of of the Cura\u00e7ao national football team between the years 2015 and 2016?",
+        "label": "76"
+    },
+    {
+        "imgname": "two_col_4729.png",
+        "query": "What percent of the coronavirus cases in South Korea as of June 24,2021 are male?",
+        "label": "50.29"
+    },
+    {
+        "imgname": "two_col_4729.png",
+        "query": "What is the difference in terms of percentage between the gender of the coronavirus cases in South Korea as of June 24,2021?",
+        "label": "0.58"
+    },
+    {
+        "imgname": "two_col_4782.png",
+        "query": "which country was 37.4 % targeted by BEC scams ?",
+        "label": "United States"
+    },
+    {
+        "imgname": "two_col_4782.png",
+        "query": "what is the sum total of Canada and others countries targeted rate by BEC scams",
+        "label": "24.5"
+    },
+    {
+        "imgname": "two_col_5298.png",
+        "query": "What year did Pennsylvania experience the greatest poverty?",
+        "label": "2011"
+    },
+    {
+        "imgname": "two_col_5298.png",
+        "query": "What is the average poverty rate from 2000 to 2004?",
+        "label": "10.86"
+    },
+    {
+        "imgname": "two_col_5337.png",
+        "query": "What is the crime rate in terms of Burglaries in the United States in 2019 (per 100,000 inhabitants) ?",
+        "label": "378"
+    },
+    {
+        "imgname": "two_col_5337.png",
+        "query": "What is the sum of the top two crime rates in the U.S in 2019 (per 100,000 inhabitants)",
+        "label": "3811.4"
+    },
+    {
+        "imgname": "two_col_5356.png",
+        "query": "What is the value of Dinnerware (in billions of dollars) for the US market as of 2012?",
+        "label": "1.9"
+    },
+    {
+        "imgname": "two_col_5356.png",
+        "query": "What is the sum value of the top two categories of the US Tableware market in 2012 (in billions of dollars)",
+        "label": "5.5"
+    },
+    {
+        "imgname": "two_col_5586.png",
+        "query": "Which streamer has the highest followers?",
+        "label": "YaraskyGaming"
+    },
+    {
+        "imgname": "two_col_5586.png",
+        "query": "What is the sum of the two least followed streamers?",
+        "label": "250000"
+    },
+    {
+        "imgname": "two_col_5881.png",
+        "query": "What is the public debt in France in the year 2017?",
+        "label": "96.8"
+    },
+    {
+        "imgname": "two_col_5881.png",
+        "query": "What is the change in the public debt in France between the years 2020 and 2019?",
+        "label": "18.1"
+    },
+    {
+        "imgname": "two_col_20023.png",
+        "query": "Which year did the global annual net loss fell drastically?",
+        "label": "2017"
+    },
+    {
+        "imgname": "two_col_20023.png",
+        "query": "What is the highest Global annual net loss?",
+        "label": "-3445.07"
+    },
+    {
+        "imgname": "two_col_20145.png",
+        "query": "which year the blue line bar crossed 40 value ??",
+        "label": "2018"
+    },
+    {
+        "imgname": "two_col_20145.png",
+        "query": "What is the difference between the highest and the lowest population??",
+        "label": "5.23"
+    },
+    {
+        "imgname": "two_col_20850.png",
+        "query": "What percentage of people waited for 1-5 mins at the airport?",
+        "label": "41"
+    },
+    {
+        "imgname": "two_col_20850.png",
+        "query": "What is the percentage difference between minimum and maximum time for which the people waited at the airport?",
+        "label": "40"
+    },
+    {
+        "imgname": "two_col_21570.png",
+        "query": "Which year has a drastic decline in number of Airbus aircraft?",
+        "label": "2020"
+    },
+    {
+        "imgname": "two_col_21570.png",
+        "query": "What is the sum of aircraft deliveries in 2002 and 2003?",
+        "label": "608"
+    },
+    {
+        "imgname": "two_col_22352.png",
+        "query": "Which year has the highest poverty rate?",
+        "label": "2014"
+    },
+    {
+        "imgname": "two_col_22352.png",
+        "query": "What is the difference between the highest and lowest poverty rate?",
+        "label": "3.8"
+    },
+    {
+        "imgname": "two_col_5902.png",
+        "query": "What is the lowest value in blue bar ??",
+        "label": "1.2"
+    },
+    {
+        "imgname": "two_col_5902.png",
+        "query": "What is the difference between the highest and lowest bar??",
+        "label": "3.5"
+    },
+    {
+        "imgname": "two_col_6378.png",
+        "query": "What is the capacity factor of nuclear power plants in the United States in 2016??",
+        "label": "92.3"
+    },
+    {
+        "imgname": "two_col_6378.png",
+        "query": "What is the highest capacity factor of nuclear power plants in the United States  from 2015 to 2020 ??",
+        "label": "93.4"
+    },
+    {
+        "imgname": "two_col_6385.png",
+        "query": "What is the number of road traffic fatalities in Austria in 2006?",
+        "label": "730"
+    },
+    {
+        "imgname": "two_col_6385.png",
+        "query": "What is the highest number of road traffic fatalities in Austria from 2016 to 2019?",
+        "label": "432"
+    },
+    {
+        "imgname": "two_col_22701.png",
+        "query": "What is the value of the middle bar?",
+        "label": "26"
+    },
+    {
+        "imgname": "two_col_22701.png",
+        "query": "Is the average net sales share of jewelry collections, engagement jewelry and designer jewelry less than 30?",
+        "label": "No"
+    },
+    {
+        "imgname": "two_col_22975.png",
+        "query": "What is the maximum number of passengers ?",
+        "label": "6810759"
+    },
+    {
+        "imgname": "two_col_22975.png",
+        "query": "Which period has the least value?",
+        "label": "Apr '20"
+    },
+    {
+        "imgname": "two_col_23088.png",
+        "query": "Which color occupies more in the pie chart ?",
+        "label": "light blue"
+    },
+    {
+        "imgname": "two_col_23088.png",
+        "query": "What is the difference between the two colors?",
+        "label": "3.2"
+    },
+    {
+        "imgname": "two_col_23267.png",
+        "query": "What is the maximum value of bar graph?",
+        "label": "56"
+    },
+    {
+        "imgname": "two_col_23267.png",
+        "query": "What is the percentage difference between maximum and minimum frequency usage of internet in US?",
+        "label": "55"
+    },
+    {
+        "imgname": "two_col_23447.png",
+        "query": "What value recorded in q4 2017?",
+        "label": "117.3"
+    },
+    {
+        "imgname": "two_col_23447.png",
+        "query": "What is the average of latest 3 data?",
+        "label": "129.267"
+    },
+    {
+        "imgname": "two_col_23860.png",
+        "query": "Which segment has a highest revnue share?",
+        "label": "Leather goods & saddlery"
+    },
+    {
+        "imgname": "two_col_23860.png",
+        "query": "Which has the least percentage and what is the value?",
+        "label": "[Watches, 3]"
+    },
+    {
+        "imgname": "two_col_24220.png",
+        "query": "How many respondents say no?",
+        "label": "0.66"
+    },
+    {
+        "imgname": "two_col_24220.png",
+        "query": "What is the difference between the yes and no respondents?",
+        "label": "32"
+    },
+    {
+        "imgname": "two_col_24294.png",
+        "query": "How many bars is above 5 ?",
+        "label": "4"
+    },
+    {
+        "imgname": "two_col_24294.png",
+        "query": "What is the average value of the last three months?",
+        "label": "8.33"
+    },
+    {
+        "imgname": "two_col_24262.png",
+        "query": "What is the lowest number of url requested to be removed in millions ?",
+        "label": "15.91"
+    },
+    {
+        "imgname": "two_col_24262.png",
+        "query": "The total number of url requested to be removed of mp3toys.xyz and rapidgattor.net is more then 4shared.com?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_40235.png",
+        "query": "Which year the blue bar shows 2.5 ?",
+        "label": "2013"
+    },
+    {
+        "imgname": "two_col_40235.png",
+        "query": "What is the average of last three years ?",
+        "label": "2.49"
+    },
+    {
+        "imgname": "two_col_24382.png",
+        "query": "What is the percentage of people that are very satisfied?",
+        "label": "39"
+    },
+    {
+        "imgname": "two_col_24382.png",
+        "query": "What is the percentage of people that are at least somewhat satisfied?",
+        "label": "84"
+    },
+    {
+        "imgname": "two_col_24555.png",
+        "query": "What value is the second leftmost bar?",
+        "label": "21.1"
+    },
+    {
+        "imgname": "two_col_24555.png",
+        "query": "What is the difference between the maximum sales share and the average sales share?",
+        "label": "9.8"
+    },
+    {
+        "imgname": "two_col_24496.png",
+        "query": "How many people spend about the same to last year?",
+        "label": "36"
+    },
+    {
+        "imgname": "two_col_24496.png",
+        "query": "What is the average of less and not buying this year?",
+        "label": "28"
+    },
+    {
+        "imgname": "two_col_40260.png",
+        "query": "What is the product of the values represented by the bars?",
+        "label": "11.5"
+    },
+    {
+        "imgname": "two_col_40260.png",
+        "query": "What is the sum of the lowest  amount wagered on Counter-Strike and its average across all years?",
+        "label": "5.95"
+    },
+    {
+        "imgname": "two_col_24265.png",
+        "query": "Which category represents the median value bar?",
+        "label": "Total"
+    },
+    {
+        "imgname": "two_col_24265.png",
+        "query": "The growth rate of which advertising is at least 15 % more than the smallest one?",
+        "label": "Digital"
+    },
+    {
+        "imgname": "two_col_40473.png",
+        "query": "Which year the value is below 0 ?",
+        "label": "2020"
+    },
+    {
+        "imgname": "two_col_40473.png",
+        "query": "What is the average percentage value between  the first and last data in the chart ?",
+        "label": "3.07"
+    },
+    {
+        "imgname": "two_col_41360.png",
+        "query": "what value was recorded in Aug'18?",
+        "label": "1.8"
+    },
+    {
+        "imgname": "two_col_41360.png",
+        "query": "What is the average of last four months from oct 18?",
+        "label": "2.175"
+    },
+    {
+        "imgname": "two_col_41522.png",
+        "query": "What countries are denoted by the purple, dark purple, orange?",
+        "label": "[France, Malaysia, Singapore]"
+    },
+    {
+        "imgname": "two_col_41522.png",
+        "query": "Is the average of retail sales from Switzerland and Benelux greater than the retail sales of Germany ?",
+        "label": "No"
+    },
+    {
+        "imgname": "two_col_41781.png",
+        "query": "What's the highest point in the chart?",
+        "label": "-0.5"
+    },
+    {
+        "imgname": "two_col_41781.png",
+        "query": "what's the difference between the lowest and highest points in the chart?",
+        "label": "1.01"
+    },
+    {
+        "imgname": "two_col_41999.png",
+        "query": "What colored segment is the second largest?",
+        "label": "navy blue"
+    },
+    {
+        "imgname": "two_col_41999.png",
+        "query": "What is the result when Travel minus Transportation, and then divided by Goods-related services?",
+        "label": "3.5"
+    },
+    {
+        "imgname": "two_col_42166.png",
+        "query": "How many different colored segments are there in the pie chart?",
+        "label": "10"
+    },
+    {
+        "imgname": "two_col_42166.png",
+        "query": "Which two countries have the closest the mine production of nickel to each other?",
+        "label": "[Australia, Canada]"
+    },
+    {
+        "imgname": "two_col_42769.png",
+        "query": "What is the value for Jive?",
+        "label": "1255"
+    },
+    {
+        "imgname": "two_col_42769.png",
+        "query": "What is the sum of Cash Money and Ruffhouse ?",
+        "label": "1331"
+    },
+    {
+        "imgname": "two_col_42804.png",
+        "query": "What is the trough value?",
+        "label": "48.8"
+    },
+    {
+        "imgname": "two_col_42804.png",
+        "query": "From Q1 2020 to Q3 2020, which period experienced the greatest rate of change in sales volume?",
+        "label": "Q2 2020"
+    },
+    {
+        "imgname": "two_col_42872.png",
+        "query": "What is the unemployment rate in 2013?",
+        "label": "18.05"
+    },
+    {
+        "imgname": "two_col_42872.png",
+        "query": "What is the average of 2018, 2019 and 2020?",
+        "label": "17.42"
+    },
+    {
+        "imgname": "two_col_42988.png",
+        "query": "What is the median value?",
+        "label": "30156"
+    },
+    {
+        "imgname": "two_col_42988.png",
+        "query": "What is th difference the countries having the same value highest and lowest?",
+        "label": "20263"
+    },
+    {
+        "imgname": "two_col_43104.png",
+        "query": "What is the prime yield value on 2018?",
+        "label": "4.25"
+    },
+    {
+        "imgname": "two_col_43104.png",
+        "query": "What is the average of all the blue bars?",
+        "label": "5.06"
+    },
+    {
+        "imgname": "two_col_43449.png",
+        "query": "How many countries does the pie chart represent except the \"other countries\"?",
+        "label": "8"
+    },
+    {
+        "imgname": "two_col_43449.png",
+        "query": "What is the sum of highest two values?",
+        "label": "55.6"
+    },
+    {
+        "imgname": "two_col_43460.png",
+        "query": "How much times is the blue segment area over the navy blue one?",
+        "label": "4"
+    },
+    {
+        "imgname": "two_col_43460.png",
+        "query": "What is the product of Caucasian golfers share?",
+        "label": "72"
+    },
+    {
+        "imgname": "two_col_43477.png",
+        "query": "What is the smallest value represented in the pie chart?",
+        "label": "0.37"
+    },
+    {
+        "imgname": "two_col_43477.png",
+        "query": "How much is NDCL more than UTL, STPL and ISPs combined together?",
+        "label": "49.84"
+    },
+    {
+        "imgname": "two_col_43578.png",
+        "query": "Which country has the lowest volume?",
+        "label": "Mosambique"
+    },
+    {
+        "imgname": "two_col_43578.png",
+        "query": "Russia, the US, and Colombia make up what percentage?",
+        "label": "76"
+    },
+    {
+        "imgname": "two_col_43688.png",
+        "query": "How many countries has a share of 3%?",
+        "label": "3"
+    },
+    {
+        "imgname": "two_col_43688.png",
+        "query": "By how much is Europe less than India?",
+        "label": "7"
+    },
+    {
+        "imgname": "two_col_60285.png",
+        "query": "Does the traffic increase/decrease?",
+        "label": "decreasing"
+    },
+    {
+        "imgname": "two_col_60285.png",
+        "query": "What is the median of last five values?",
+        "label": "48"
+    },
+    {
+        "imgname": "two_col_60395.png",
+        "query": "What does Green indicate?",
+        "label": "Never heard of"
+    },
+    {
+        "imgname": "two_col_60395.png",
+        "query": "What is the ratio of \"very favorable\" to \"heard of\"?",
+        "label": "1.4375"
+    },
+    {
+        "imgname": "multi_col_204.png",
+        "query": "What is the percentage of votes received by Donald Trump  from the people between the age gap of 40 to 49 years?",
+        "label": "50"
+    },
+    {
+        "imgname": "multi_col_204.png",
+        "query": "In which age group, the difference between the votes received by Hillary Clinton and Donald Trump was maximum?",
+        "label": "18 to 24 years"
+    },
+    {
+        "imgname": "multi_col_228.png",
+        "query": "In which year was the revenue from the Asia-Pacific region the highest",
+        "label": "2019"
+    },
+    {
+        "imgname": "multi_col_228.png",
+        "query": "In which year was the total revenue of Adidas from the Europe and North America region the least?",
+        "label": "2020"
+    },
+    {
+        "imgname": "multi_col_281.png",
+        "query": "What was the highest percentage on the black line?",
+        "label": "44"
+    },
+    {
+        "imgname": "multi_col_281.png",
+        "query": "What was the lowest decrease after one year?",
+        "label": "0.2"
+    },
+    {
+        "imgname": "multi_col_282.png",
+        "query": "What was the lowest attribute of the red bar?",
+        "label": "41"
+    },
+    {
+        "imgname": "multi_col_282.png",
+        "query": "What income featured the biggest difference between the candidates?",
+        "label": "Under 30,000"
+    },
+    {
+        "imgname": "multi_col_321.png",
+        "query": "What is the percentage of agriculture in the GDP in the year 2014 ?",
+        "label": "12.27"
+    },
+    {
+        "imgname": "multi_col_321.png",
+        "query": "What is the percentage of services in the GDP in the year 2019?",
+        "label": "61"
+    },
+    {
+        "imgname": "multi_col_373.png",
+        "query": "In which year did COSTCO have the least number of part-time employees?",
+        "label": "2011"
+    },
+    {
+        "imgname": "multi_col_373.png",
+        "query": "For how many years did COSTCO have full-time employees less than 100 thousand in number?",
+        "label": "2"
+    },
+    {
+        "imgname": "multi_col_395.png",
+        "query": "Which age group has the highest number of male veterans?",
+        "label": "75 years and over"
+    },
+    {
+        "imgname": "multi_col_395.png",
+        "query": "In which age group is the difference between the Male and Female veterans as a percentage of the US population the least?",
+        "label": "18 to 34 years"
+    },
+    {
+        "imgname": "multi_col_405.png",
+        "query": "What is the highest value in the chart?",
+        "label": "79"
+    },
+    {
+        "imgname": "multi_col_405.png",
+        "query": "what is the lowest value in the chart ?",
+        "label": "70"
+    },
+    {
+        "imgname": "multi_col_524.png",
+        "query": "What colour is used to represent United States in the chart ?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "multi_col_524.png",
+        "query": "What is the difference in revenue between highest value in united states and lowest value in canada ?",
+        "label": "2643.54"
+    },
+    {
+        "imgname": "multi_col_100383.png",
+        "query": "Find which category data have this number 39%, 46%, 50% ?",
+        "label": "Some of them"
+    },
+    {
+        "imgname": "multi_col_100383.png",
+        "query": "Analysis the grey bar and find the largest percentage and smallest percentage, add them and divide by 2, what is that number ?",
+        "label": "26.5"
+    },
+    {
+        "imgname": "multi_col_100404.png",
+        "query": "When did the percentage of paid by enrollee reach the peak?",
+        "label": "2016"
+    },
+    {
+        "imgname": "multi_col_100404.png",
+        "query": "When was the percentage of paid by enrollee above 50?",
+        "label": "[2016, 2017]"
+    },
+    {
+        "imgname": "multi_col_100423.png",
+        "query": "What does the grey segments represent on this graph?",
+        "label": "Retail"
+    },
+    {
+        "imgname": "multi_col_100423.png",
+        "query": "What percentage does retail represent in 2020?",
+        "label": "15.51"
+    },
+    {
+        "imgname": "multi_col_100522.png",
+        "query": "For which adult the face masks effective for preventing the spread of coronavirus?",
+        "label": "Female"
+    },
+    {
+        "imgname": "multi_col_100522.png",
+        "query": "What is the difference between male and female when very effective?",
+        "label": "2"
+    },
+    {
+        "imgname": "multi_col_100568.png",
+        "query": "Which advertising professionals planning to make changes to their messaging strategy in response to the coronavirus outbreak in the United States as of March 2020?",
+        "label": "Mission-based marketing"
+    },
+    {
+        "imgname": "multi_col_100568.png",
+        "query": "What is the difference between Highest increase and decrease percentage ?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_100637.png",
+        "query": "What's the percentage of respondents who will be watching the Super Bowl in 2012?",
+        "label": "34.4"
+    },
+    {
+        "imgname": "multi_col_100637.png",
+        "query": "Is the median value of light blue bars equal to 64?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "multi_col_100698.png",
+        "query": "What does light blue represent?",
+        "label": "Approve"
+    },
+    {
+        "imgname": "multi_col_100698.png",
+        "query": "What is the average of those who disapprove?",
+        "label": "25"
+    },
+    {
+        "imgname": "multi_col_100755.png",
+        "query": "What are the modes of this graph?",
+        "label": "[46, 60]"
+    },
+    {
+        "imgname": "multi_col_100755.png",
+        "query": "What is the average for images on Snapchat stories?",
+        "label": "42.5"
+    },
+    {
+        "imgname": "multi_col_100806.png",
+        "query": "In the chart, What is the first year ?",
+        "label": "2010"
+    },
+    {
+        "imgname": "multi_col_100806.png",
+        "query": "Look at 2014 data, Add the first three data from the top and minus the last data ? top to bottom what is the result?",
+        "label": "34"
+    },
+    {
+        "imgname": "multi_col_100908.png",
+        "query": "How many colors are used to represent the bar chart?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_100908.png",
+        "query": "What is the median value of all the gray bars?",
+        "label": "57"
+    },
+    {
+        "imgname": "multi_col_100922.png",
+        "query": "Which party does majority of the Generation Z support in India as of February 2019?",
+        "label": "BJP"
+    },
+    {
+        "imgname": "multi_col_100922.png",
+        "query": "What is the percentage of people who support the BJP or the Congress in the Generation X of India as of February 2019?",
+        "label": "71.34"
+    },
+    {
+        "imgname": "multi_col_100934.png",
+        "query": "Which activity has the highest share of respondents?",
+        "label": "Sending/receiving emails"
+    },
+    {
+        "imgname": "multi_col_100934.png",
+        "query": "What is the average of the lowest activity in men and the highest activity in men?",
+        "label": "54.5"
+    },
+    {
+        "imgname": "multi_col_100964.png",
+        "query": "What is the mode of 18-29?",
+        "label": "9"
+    },
+    {
+        "imgname": "multi_col_100964.png",
+        "query": "What is the average of all 'Neither more nor less likely'?",
+        "label": "52.8"
+    },
+    {
+        "imgname": "multi_col_100986.png",
+        "query": "Data set 67%,62%,47%,40%, find its category?",
+        "label": "White Catholic"
+    },
+    {
+        "imgname": "multi_col_100986.png",
+        "query": "what is the average of Black Protestant ?",
+        "label": "30.75"
+    },
+    {
+        "imgname": "multi_col_100996.png",
+        "query": "Itlay - 91% , 9%  ,  ______  is 93% , 7%, Find the blank",
+        "label": "EU28"
+    },
+    {
+        "imgname": "multi_col_100996.png",
+        "query": "What is the ratio of 93 % vs 7%?",
+        "label": "13.29"
+    },
+    {
+        "imgname": "multi_col_101019.png",
+        "query": "What is the percentage of Independents oppose Israel's action ?",
+        "label": "6"
+    },
+    {
+        "imgname": "multi_col_101019.png",
+        "query": "What is the ratio between Republicans who support Israel's action vs Oppose Israel's action ?",
+        "label": "20.66666667"
+    },
+    {
+        "imgname": "multi_col_101020.png",
+        "query": "In the chart. 44% respondents says about customer service, what is that ?",
+        "label": "Have not changed"
+    },
+    {
+        "imgname": "multi_col_101020.png",
+        "query": "what is the average of Improved vs Have not changed in 'In Person' category ?",
+        "label": "51"
+    },
+    {
+        "imgname": "multi_col_101111.png",
+        "query": "Which colored line always stay in the middle",
+        "label": "Blue"
+    },
+    {
+        "imgname": "multi_col_101111.png",
+        "query": "What year showed an increase in total average birth weight even though the average boy birth weight decreased",
+        "label": "2017"
+    },
+    {
+        "imgname": "multi_col_101172.png",
+        "query": "Which has the highest value in 2020?",
+        "label": "Research and development"
+    },
+    {
+        "imgname": "multi_col_101172.png",
+        "query": "What is the total of Marketing and distribution?",
+        "label": "20532"
+    },
+    {
+        "imgname": "multi_col_1057.png",
+        "query": "What percentage of economic sector is services in 2010?",
+        "label": "42.64"
+    },
+    {
+        "imgname": "multi_col_1057.png",
+        "query": "What's the total percentage of economic sector in services and industry in 2010?",
+        "label": "68.19"
+    },
+    {
+        "imgname": "multi_col_1108.png",
+        "query": "For how many years is the information available about number of establishments and employees in the investment banking businesses in the U.S?",
+        "label": "4"
+    },
+    {
+        "imgname": "multi_col_1108.png",
+        "query": "What is the difference between highest value of employees and lowest value of employees ?",
+        "label": "69"
+    },
+    {
+        "imgname": "multi_col_1226.png",
+        "query": "What is the percentage of the number who said yes in the United Kingdom?",
+        "label": "42"
+    },
+    {
+        "imgname": "multi_col_1226.png",
+        "query": "What is the difference of the no in United states and united kingdom?",
+        "label": "6"
+    },
+    {
+        "imgname": "multi_col_1304.png",
+        "query": "What's the agriculture percentage in 2020?",
+        "label": "54.62"
+    },
+    {
+        "imgname": "multi_col_1304.png",
+        "query": "What's the total average for agriculture and industry for econmoic sector in 2020",
+        "label": "65.69"
+    },
+    {
+        "imgname": "multi_col_1326.png",
+        "query": "Which age group had the highest shares?",
+        "label": "20-29 years"
+    },
+    {
+        "imgname": "multi_col_1326.png",
+        "query": "What is the difference between normal weight and obese of age 20-29 yrs?",
+        "label": "53.5"
+    },
+    {
+        "imgname": "multi_col_1334.png",
+        "query": "What's the frequent Air travel frequency in the United States as of June 2015, by african american?",
+        "label": "6"
+    },
+    {
+        "imgname": "multi_col_1334.png",
+        "query": "What's the frequent Air travel frequency and never flown in the United States as of June 2015, by african american?",
+        "label": "42"
+    },
+    {
+        "imgname": "multi_col_1367.png",
+        "query": "Which year recorded the highest GDP in Agriculture sector  in Tanzania?",
+        "label": "2017"
+    },
+    {
+        "imgname": "multi_col_1367.png",
+        "query": "What is the difference between highest GDP in Agriculture sector and lowest GDP in Industry over the years?",
+        "label": "5.11"
+    },
+    {
+        "imgname": "multi_col_844.png",
+        "query": "What is the market share of Samsung in 2017?",
+        "label": "8.4"
+    },
+    {
+        "imgname": "multi_col_844.png",
+        "query": "What is the difference between maximum share of Micron and minimum share of Sony over the years?",
+        "label": "34.8"
+    },
+    {
+        "imgname": "multi_col_849.png",
+        "query": "Which age group people visited  overseas to the London Olympic Games most ?",
+        "label": "25-34"
+    },
+    {
+        "imgname": "multi_col_849.png",
+        "query": "In which age group the difference between the number of male and female visitors is minimum?",
+        "label": "16-24"
+    },
+    {
+        "imgname": "multi_col_960.png",
+        "query": "In which year the GDP in agriculture sector was maximum?",
+        "label": "2011"
+    },
+    {
+        "imgname": "multi_col_960.png",
+        "query": "What is the difference between maximum GDP in agriculture sector and minimum GDP in Industry over the years?",
+        "label": "21.91"
+    },
+    {
+        "imgname": "multi_col_1428.png",
+        "query": "In which country hotel the imporant rate was maximum?",
+        "label": "France"
+    },
+    {
+        "imgname": "multi_col_1428.png",
+        "query": "What is the difference between the highest imporant and lowest very important?",
+        "label": "43"
+    },
+    {
+        "imgname": "multi_col_1471.png",
+        "query": "What was the most popular product in 2019?",
+        "label": "Television product"
+    },
+    {
+        "imgname": "multi_col_1471.png",
+        "query": "What was the combines revenue of television and theatrical products in 2019?",
+        "label": "12345"
+    },
+    {
+        "imgname": "multi_col_1501.png",
+        "query": "In which year there was the higest no of breakdown of workforce in Agriculture ?",
+        "label": "2009"
+    },
+    {
+        "imgname": "multi_col_1501.png",
+        "query": "What the sum total breakdown in the year 2019 in Manufacturing and Services ?",
+        "label": "580.26"
+    },
+    {
+        "imgname": "multi_col_1516.png",
+        "query": "Which people worries very high for handshaking?",
+        "label": "Asians"
+    },
+    {
+        "imgname": "multi_col_1516.png",
+        "query": "What is the difference between Highest worried people and lowest worried people?",
+        "label": "38"
+    },
+    {
+        "imgname": "multi_col_20011.png",
+        "query": "Is the grey bar always shorter than the dark blue bar across all the years?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "multi_col_20011.png",
+        "query": "What is the average between 15-64 years population and the difference between 65 years and older and 0-14 years in 2019?",
+        "label": "34.815"
+    },
+    {
+        "imgname": "multi_col_20018.png",
+        "query": "The shortest light blue bar minus the tallest grey bar yields what value?",
+        "label": "137.61"
+    },
+    {
+        "imgname": "multi_col_20018.png",
+        "query": "Is the sum of all the supporting services expenses across all years greater than the program services expense in 2018?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "multi_col_20032.png",
+        "query": "What was highest age of trucks in 2019?",
+        "label": "13"
+    },
+    {
+        "imgname": "multi_col_20032.png",
+        "query": "How higher was the age of vans in 2017 than in 2019?",
+        "label": "-0.3"
+    },
+    {
+        "imgname": "multi_col_20093.png",
+        "query": "What is the highest value of blue bar?",
+        "label": "73"
+    },
+    {
+        "imgname": "multi_col_20093.png",
+        "query": "Which year has the minimum difference between light blue bar and dark blue bar?",
+        "label": "White"
+    },
+    {
+        "imgname": "multi_col_20095.png",
+        "query": "What is the value of the leftmost light bar?",
+        "label": "8876"
+    },
+    {
+        "imgname": "multi_col_20095.png",
+        "query": "What is the difference between the percentage of brand value of the banks ING, Rabobank and ABN AMRO from the Netherlands on 2015?",
+        "label": "6415"
+    },
+    {
+        "imgname": "multi_col_20106.png",
+        "query": "In which year the TV viewing of woman were higher over the years ?",
+        "label": "2010"
+    },
+    {
+        "imgname": "multi_col_20106.png",
+        "query": "What is the difference between highest in woman viewers and lowest in men viewing  over the years ?",
+        "label": "89"
+    },
+    {
+        "imgname": "multi_col_20228.png",
+        "query": "What is the total percentage of prescription of controlled substances in 2019?",
+        "label": "38"
+    },
+    {
+        "imgname": "multi_col_20228.png",
+        "query": "What is the average percentage of prescriptions of controlled substances from 2018 to 2019?",
+        "label": "32"
+    },
+    {
+        "imgname": "multi_col_20251.png",
+        "query": "What is the percentage share of bulk carriers in less than 10 years?",
+        "label": "62"
+    },
+    {
+        "imgname": "multi_col_20251.png",
+        "query": "What is the difference between the maximum percentage share and the minimum percentage share in 10-14 years?",
+        "label": "17"
+    },
+    {
+        "imgname": "multi_col_20252.png",
+        "query": "What is the sales price of beer in Philadelphia 76ers games in 2015/16?",
+        "label": "8.5"
+    },
+    {
+        "imgname": "multi_col_20252.png",
+        "query": "What is the average sales price of hot dog in Philadelphia 76ers games from 2013/14 to 2014/15?",
+        "label": "5.125"
+    },
+    {
+        "imgname": "multi_col_20268.png",
+        "query": "What is the maximum threshold for herd immunity for Mumps as of 2013?",
+        "label": "86"
+    },
+    {
+        "imgname": "multi_col_20268.png",
+        "query": "What is the difference between the Maximum and Minimum Threshold for Herd Immunity for Smallpox as of 2013?",
+        "label": "2"
+    },
+    {
+        "imgname": "multi_col_20338.png",
+        "query": "What is the total number of Hudson's Bay Company stores in 2019?",
+        "label": "89"
+    },
+    {
+        "imgname": "multi_col_20338.png",
+        "query": "What is the average number of Hudson's Bay Company stores from 2017 to 2018?",
+        "label": "89.5"
+    },
+    {
+        "imgname": "multi_col_20373.png",
+        "query": "What's brought in the most revenue in 2018?",
+        "label": "Others**"
+    },
+    {
+        "imgname": "multi_col_20373.png",
+        "query": "What is the difference between smartwatch revenue in 2015 and 2021?",
+        "label": "12.26"
+    },
+    {
+        "imgname": "multi_col_20385.png",
+        "query": "What year is mentioned in red in the chart ?",
+        "label": "2020"
+    },
+    {
+        "imgname": "multi_col_20385.png",
+        "query": "What is the highest revenue difference  in 2017 and lowest value in 2020 ?",
+        "label": "2754"
+    },
+    {
+        "imgname": "multi_col_20392.png",
+        "query": "What is the maximum value of blue bar?",
+        "label": "8"
+    },
+    {
+        "imgname": "multi_col_20392.png",
+        "query": "What is the difference between the maximum value of red bar and minimum value of blue bar?",
+        "label": "27"
+    },
+    {
+        "imgname": "multi_col_20458.png",
+        "query": "What is the value of dietary supplements in Europe in 2015 (in billion euros)?",
+        "label": "7.2"
+    },
+    {
+        "imgname": "multi_col_20458.png",
+        "query": "What is the difference between the maximum value of dietary supplements in 2015 and the minimum value of dietary supplements in 2020?",
+        "label": "5.05"
+    },
+    {
+        "imgname": "multi_col_20495.png",
+        "query": "What is the worldwide box office revenue of Puss in Boots (in million U.S. dollars)?",
+        "label": "555"
+    },
+    {
+        "imgname": "multi_col_20495.png",
+        "query": "What is the average of Shrek and Shrek 2 box office revenue in North America?",
+        "label": "354.45"
+    },
+    {
+        "imgname": "multi_col_20513.png",
+        "query": "What does the red color stand for ?",
+        "label": "Impossible"
+    },
+    {
+        "imgname": "multi_col_20513.png",
+        "query": "What is the average of necessity?",
+        "label": "2.4"
+    },
+    {
+        "imgname": "multi_col_20532.png",
+        "query": "What is the highest percentage in the industry sector?",
+        "label": "73.67"
+    },
+    {
+        "imgname": "multi_col_20532.png",
+        "query": "What is the average of agriculture sector?",
+        "label": "0.89"
+    },
+    {
+        "imgname": "multi_col_20570.png",
+        "query": "What is the highest percentage in blue bar ?",
+        "label": "8.58"
+    },
+    {
+        "imgname": "multi_col_20570.png",
+        "query": "What is the blue bar average value of 2018 and  2019 ?",
+        "label": "6.78"
+    },
+    {
+        "imgname": "multi_col_20613.png",
+        "query": "In which two quarters the average daily rate of hotels is the same in 2016?",
+        "label": "[Q2, Q3]"
+    },
+    {
+        "imgname": "multi_col_20613.png",
+        "query": "What is the average daily rate in 2016?",
+        "label": "158"
+    },
+    {
+        "imgname": "multi_col_20618.png",
+        "query": "How many years has the same number of companies in domestic market?",
+        "label": "2"
+    },
+    {
+        "imgname": "multi_col_20618.png",
+        "query": "What is the average of total market?",
+        "label": "267"
+    },
+    {
+        "imgname": "multi_col_20683.png",
+        "query": "What is the percentage of highest blue bar ?",
+        "label": "11"
+    },
+    {
+        "imgname": "multi_col_20683.png",
+        "query": "What is value of the highest percentage bar in dark blue ?",
+        "label": "8.1"
+    },
+    {
+        "imgname": "multi_col_20693.png",
+        "query": "what is value of the highest bar?",
+        "label": "34785"
+    },
+    {
+        "imgname": "multi_col_20693.png",
+        "query": "What is the average of Pathfinder ?",
+        "label": "8568.67"
+    },
+    {
+        "imgname": "multi_col_20746.png",
+        "query": "How many percentage of people favor for the death penalty in 2020?",
+        "label": "55"
+    },
+    {
+        "imgname": "multi_col_20746.png",
+        "query": "What is the difference between the favor and not in favor of death penalty in the year 1971?",
+        "label": "9"
+    },
+    {
+        "imgname": "multi_col_20891.png",
+        "query": "Which is the most used skin care product by males over the past 12 months?",
+        "label": "Soap"
+    },
+    {
+        "imgname": "multi_col_20891.png",
+        "query": "Which product has the minimum difference between the amount of skin products used by male and female?",
+        "label": "At-home skin device"
+    },
+    {
+        "imgname": "multi_col_20929.png",
+        "query": "Which quarter does the graph show a negative scenario?",
+        "label": "Q1 '20"
+    },
+    {
+        "imgname": "multi_col_20929.png",
+        "query": "In which quarter does the difference between the baseline and the pessimistic scenario the least?",
+        "label": "Q4 '20"
+    },
+    {
+        "imgname": "multi_col_20947.png",
+        "query": "What is the value of the combined bar in 2014 ?",
+        "label": "3.08"
+    },
+    {
+        "imgname": "multi_col_20947.png",
+        "query": "What is the difference between blue bar from  2019 to 2018 ?",
+        "label": "0.04"
+    },
+    {
+        "imgname": "multi_col_20954.png",
+        "query": "In what year did the unemployment rate (overall) peak?",
+        "label": "2009"
+    },
+    {
+        "imgname": "multi_col_20954.png",
+        "query": "In 2009 what was the average unemployment rate (ICT and overall combined)?",
+        "label": "6.25"
+    },
+    {
+        "imgname": "multi_col_20962.png",
+        "query": "Which market has the highest number of companies ?",
+        "label": "Total market"
+    },
+    {
+        "imgname": "multi_col_20962.png",
+        "query": "What is the difference between the domestic and total market in 2019?",
+        "label": "5"
+    },
+    {
+        "imgname": "multi_col_21113.png",
+        "query": "how many people aremuch more eating healthier in the lockdown period?",
+        "label": "4"
+    },
+    {
+        "imgname": "multi_col_21113.png",
+        "query": "What is the average of same in both the categories?",
+        "label": "50"
+    },
+    {
+        "imgname": "multi_col_21134.png",
+        "query": "What percentage of males between age group of 25-49 expect removing of pubic hair?",
+        "label": "6"
+    },
+    {
+        "imgname": "multi_col_21134.png",
+        "query": "In which age group the difference between Trim and do nothing is maximum?",
+        "label": "65+"
+    },
+    {
+        "imgname": "multi_col_40023.png",
+        "query": "What is the value of the highest dark blue bar?",
+        "label": "57"
+    },
+    {
+        "imgname": "multi_col_40023.png",
+        "query": "What is the sum of highest value and lowest value of light blue bar?",
+        "label": "29"
+    },
+    {
+        "imgname": "multi_col_40047.png",
+        "query": "What meat does red color indicate?",
+        "label": "Lamb and mutton"
+    },
+    {
+        "imgname": "multi_col_40047.png",
+        "query": "What is the difference between maximum and minimum consumption of Beef?",
+        "label": "4.6"
+    },
+    {
+        "imgname": "multi_col_40074.png",
+        "query": "The shortest light blue bar minus the tallest dark blue bar yields what value?",
+        "label": "0"
+    },
+    {
+        "imgname": "multi_col_40074.png",
+        "query": "What was the difference between the 18-21 years old and 22-29 years groups for males?",
+        "label": "0.8"
+    },
+    {
+        "imgname": "multi_col_40076.png",
+        "query": "The shortest light blue bar minus the tallest dark blue bar yields what value?",
+        "label": "28"
+    },
+    {
+        "imgname": "multi_col_40076.png",
+        "query": "What is the value of highest share of voters in the United States that think President Trump possesses select character traits, as of July 2018?",
+        "label": "63"
+    },
+    {
+        "imgname": "multi_col_40097.png",
+        "query": "What is the maximum value of navy blue bar across all regions?",
+        "label": "43"
+    },
+    {
+        "imgname": "multi_col_40097.png",
+        "query": "What is the difference between highest degree of freedom in Europe to the lowest degree of freedom in Global?",
+        "label": "53"
+    },
+    {
+        "imgname": "multi_col_40193.png",
+        "query": "The shortest light blue bar minus the tallest dark blue bar yields what value?",
+        "label": "-46500"
+    },
+    {
+        "imgname": "multi_col_40193.png",
+        "query": "What is the difference between the highest and the lowest bar value of Netflix?",
+        "label": "43000"
+    },
+    {
+        "imgname": "multi_col_40227.png",
+        "query": "What does the navy blue represent?",
+        "label": "Yes, somewhat"
+    },
+    {
+        "imgname": "multi_col_40227.png",
+        "query": "What is the highest percentage of \"yes, absolutely\"?",
+        "label": "47"
+    },
+    {
+        "imgname": "multi_col_40250.png",
+        "query": "The shortest light blue bar minus the tallest dark blue bar yields what value?",
+        "label": "1.25"
+    },
+    {
+        "imgname": "multi_col_40250.png",
+        "query": "What is the highest concession stand prices Sacramento Kings games from 2010/11 to 2015/16 (in U.S. dollars) for beer?",
+        "label": "7"
+    },
+    {
+        "imgname": "multi_col_40269.png",
+        "query": "Which gender has the highest prevalence of cardiovascular diseases?",
+        "label": "Male"
+    },
+    {
+        "imgname": "multi_col_40269.png",
+        "query": "What is the difference between male and female of Hispanic race?",
+        "label": "9.6"
+    },
+    {
+        "imgname": "multi_col_40285.png",
+        "query": "What is the highest percentage of democrats?",
+        "label": "58"
+    },
+    {
+        "imgname": "multi_col_40285.png",
+        "query": "What is the total percentage of boomer (ages 50-68)?",
+        "label": "94"
+    },
+    {
+        "imgname": "multi_col_40343.png",
+        "query": "Which color bar has the highest share of users?",
+        "label": "yellow"
+    },
+    {
+        "imgname": "multi_col_40343.png",
+        "query": "What is the total share of users, both male and female, today?",
+        "label": "18"
+    },
+    {
+        "imgname": "multi_col_40519.png",
+        "query": "The shortest light blue bar minus the tallest dark blue bar yields what value?",
+        "label": "210.5"
+    },
+    {
+        "imgname": "multi_col_40519.png",
+        "query": "What is the value of highest urban population between male and female?",
+        "label": "195.5"
+    },
+    {
+        "imgname": "multi_col_40545.png",
+        "query": "What color bar recorded the highest value in the chart?",
+        "label": "navy blue"
+    },
+    {
+        "imgname": "multi_col_40545.png",
+        "query": "What is the average of 40 hours?",
+        "label": "46.5"
+    },
+    {
+        "imgname": "multi_col_40584.png",
+        "query": "What does the color Red indicate?",
+        "label": "2016"
+    },
+    {
+        "imgname": "multi_col_40584.png",
+        "query": "What is the sum of stores in 2017?",
+        "label": "7"
+    },
+    {
+        "imgname": "multi_col_40619.png",
+        "query": "What does the light blue color indicate?",
+        "label": "Domestic"
+    },
+    {
+        "imgname": "multi_col_40619.png",
+        "query": "What is the difference between domestic and cross border in 2018?",
+        "label": "1062"
+    },
+    {
+        "imgname": "multi_col_40632.png",
+        "query": "Which country has the highest percentage of European net sales?",
+        "label": "Belgium"
+    },
+    {
+        "imgname": "multi_col_40632.png",
+        "query": "What is the differences in the percentage of Italy and Russian country European net sales?",
+        "label": "2.4"
+    },
+    {
+        "imgname": "multi_col_40794.png",
+        "query": "Which bar is below 8%?",
+        "label": "red"
+    },
+    {
+        "imgname": "multi_col_40794.png",
+        "query": "Which sex had a smaller difference between death by firearm and suffocation?",
+        "label": "Female"
+    },
+    {
+        "imgname": "multi_col_40805.png",
+        "query": "What is the highest value in the red bar?",
+        "label": "75.2"
+    },
+    {
+        "imgname": "multi_col_40805.png",
+        "query": "What is the average of all the bars in the women?",
+        "label": "44.12"
+    },
+    {
+        "imgname": "multi_col_40915.png",
+        "query": "What is value of the highest bar in the chart?",
+        "label": "81"
+    },
+    {
+        "imgname": "multi_col_40915.png",
+        "query": "How many bars in the chart below 40 %?",
+        "label": "8"
+    },
+    {
+        "imgname": "multi_col_40946.png",
+        "query": "What does the light blue color indicate?",
+        "label": "Male"
+    },
+    {
+        "imgname": "multi_col_40946.png",
+        "query": "What is the difference between male and female aged 50-64 years?",
+        "label": "0.6"
+    },
+    {
+        "imgname": "multi_col_40975.png",
+        "query": "Which is the lowest percentage value in the blue line chart?",
+        "label": "21"
+    },
+    {
+        "imgname": "multi_col_40975.png",
+        "query": "what is the difference between highest value and lowest value in black line?",
+        "label": "6"
+    },
+    {
+        "imgname": "multi_col_40989.png",
+        "query": "Which has the highest percentage of teens and adults in the U.S. who report consequences of bad sleeping habits in 2013, by generation?",
+        "label": "Millennial"
+    },
+    {
+        "imgname": "multi_col_40989.png",
+        "query": "What is the difference between the highest and lowest Millennial value?",
+        "label": "26"
+    },
+    {
+        "imgname": "multi_col_60003.png",
+        "query": "What is the lowest value in blue bar line?",
+        "label": "78.21"
+    },
+    {
+        "imgname": "multi_col_60003.png",
+        "query": "What is the sum of first and last data in black line?",
+        "label": "146.68"
+    },
+    {
+        "imgname": "multi_col_60030.png",
+        "query": "What is the highest value of navy blue bar over the years?",
+        "label": "35.9"
+    },
+    {
+        "imgname": "multi_col_60030.png",
+        "query": "What is the difference between highest value of P & G and lowest value of Spectrum over the years?",
+        "label": "27.8"
+    },
+    {
+        "imgname": "multi_col_60046.png",
+        "query": "What is the smallest value in the 18-34 category?",
+        "label": "57.1"
+    },
+    {
+        "imgname": "multi_col_60046.png",
+        "query": "What is the average of of all blue bar in the chart?",
+        "label": "67.73"
+    },
+    {
+        "imgname": "multi_col_60144.png",
+        "query": "Which year has the highest number in hyperscale",
+        "label": "2021"
+    },
+    {
+        "imgname": "multi_col_60144.png",
+        "query": "What is the sum of 1st and last bar in the chart?",
+        "label": "184.2"
+    },
+    {
+        "imgname": "multi_col_60145.png",
+        "query": "What is the lowest value in blue bar?",
+        "label": "0.07"
+    },
+    {
+        "imgname": "multi_col_60145.png",
+        "query": "What is the average of 1st highest value and 3rd highest value in blue bar?",
+        "label": "5.65"
+    },
+    {
+        "imgname": "multi_col_60166.png",
+        "query": "What is the highest value of navy blue bar over the years?",
+        "label": "370787"
+    },
+    {
+        "imgname": "multi_col_60166.png",
+        "query": "In which year the difference between revenues of retail and wholesale is maximum?",
+        "label": "2019"
+    },
+    {
+        "imgname": "multi_col_60178.png",
+        "query": "On march 16, How many percentage of people very conerned?",
+        "label": "52"
+    },
+    {
+        "imgname": "multi_col_60178.png",
+        "query": "For how many days, the people perceived little or no concern fear below 50%?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_60182.png",
+        "query": "What does the light blue bar indicate?",
+        "label": "Leisure travel spending"
+    },
+    {
+        "imgname": "multi_col_60182.png",
+        "query": "How many years the business travel spending is less than 10%?",
+        "label": "4"
+    },
+    {
+        "imgname": "multi_col_60227.png",
+        "query": "What is value indicated by grey bar in investment?",
+        "label": "4.03"
+    },
+    {
+        "imgname": "multi_col_60227.png",
+        "query": "What is the difference between sum of all investments and development?",
+        "label": "0.65"
+    },
+    {
+        "imgname": "multi_col_60318.png",
+        "query": "Which manger earns more?",
+        "label": "Senior compliance manager"
+    },
+    {
+        "imgname": "multi_col_60318.png",
+        "query": "what is the average of senior compliance manger salary?",
+        "label": "100000"
+    },
+    {
+        "imgname": "multi_col_60339.png",
+        "query": "What is the percentage value of green bar?",
+        "label": "2"
+    },
+    {
+        "imgname": "multi_col_60339.png",
+        "query": "What is the color of a bar whose value is the same in 2013 and 2011?",
+        "label": "Green"
+    },
+    {
+        "imgname": "multi_col_60381.png",
+        "query": "What is the percentage value of \"Legal\" poverty in 2018?",
+        "label": "10.9"
+    },
+    {
+        "imgname": "multi_col_60381.png",
+        "query": "What is the difference between highest and lowest value of Relative poverty?",
+        "label": "5.8"
+    },
+    {
+        "imgname": "multi_col_60448.png",
+        "query": "What is the percentage value of Data licensing in 2010?",
+        "label": "74"
+    },
+    {
+        "imgname": "multi_col_60448.png",
+        "query": "What is the average of last 3 years in Advertising services?",
+        "label": "86.33"
+    },
+    {
+        "imgname": "multi_col_60497.png",
+        "query": "What is the value of red line in 2016?",
+        "label": "10047.6"
+    },
+    {
+        "imgname": "multi_col_60497.png",
+        "query": "What is the average of blue line data?",
+        "label": "989.73"
+    },
+    {
+        "imgname": "multi_col_60501.png",
+        "query": "What is share percentage of female respondents who often read a pornographic journal?",
+        "label": "0"
+    },
+    {
+        "imgname": "multi_col_60501.png",
+        "query": "What is the diffrence between highest and lowest value of gray bar?",
+        "label": "15"
+    },
+    {
+        "imgname": "multi_col_60504.png",
+        "query": "What is the value of the shortest navy blue bar?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_60504.png",
+        "query": "Which impact produced the second greatest difference between industry and services?",
+        "label": "Increased input costs"
+    },
+    {
+        "imgname": "multi_col_60554.png",
+        "query": "What is the revenue of non-partnered streamers in 2016?",
+        "label": "19.1"
+    },
+    {
+        "imgname": "multi_col_60554.png",
+        "query": "What is the average of including partnered streamers?",
+        "label": "23.55"
+    },
+    {
+        "imgname": "multi_col_60581.png",
+        "query": "What the 2 bars of 100% represents?",
+        "label": "Apple TV+"
+    },
+    {
+        "imgname": "multi_col_60581.png",
+        "query": "What is the difference between TV shows and Movies  in Netflix?",
+        "label": "23.7"
+    },
+    {
+        "imgname": "multi_col_60604.png",
+        "query": "Which months have considered for the graph?",
+        "label": "[August 2013, February 2013]"
+    },
+    {
+        "imgname": "multi_col_60604.png",
+        "query": "For which periods the followers are of 4 millions?",
+        "label": "[August 2015, August 2020]"
+    },
+    {
+        "imgname": "multi_col_60618.png",
+        "query": "How many bars shown in the chart?",
+        "label": "12"
+    },
+    {
+        "imgname": "multi_col_60618.png",
+        "query": "What is the average of blue bar?",
+        "label": "40.5"
+    },
+    {
+        "imgname": "multi_col_60661.png",
+        "query": "Which year had the highest participate count?",
+        "label": "2009/10"
+    },
+    {
+        "imgname": "multi_col_60661.png",
+        "query": "What is the average participation for 2009/10-2011/12 for girls?",
+        "label": "79760.3333"
+    },
+    {
+        "imgname": "multi_col_60670.png",
+        "query": "How many variables compared ( color) in the charts?",
+        "label": "6"
+    },
+    {
+        "imgname": "multi_col_60670.png",
+        "query": "what is the average of all red bars?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_60720.png",
+        "query": "Which category recorded highest value in the chart?",
+        "label": "Vaccines"
+    },
+    {
+        "imgname": "multi_col_60720.png",
+        "query": "What is the sum of the value of all the bars in the Dermatology category?",
+        "label": "2318"
+    },
+    {
+        "imgname": "multi_col_60736.png",
+        "query": "When were people more willing to spend more?",
+        "label": "March"
+    },
+    {
+        "imgname": "multi_col_60736.png",
+        "query": "What's the difference between the highest and lowest number of blue bars?",
+        "label": "25"
+    },
+    {
+        "imgname": "multi_col_60777.png",
+        "query": "In which year did foreign revenue reach the peak?",
+        "label": "2019"
+    },
+    {
+        "imgname": "multi_col_60777.png",
+        "query": "Which year witnessed the biggest gap between two revenues?",
+        "label": "2019"
+    },
+    {
+        "imgname": "multi_col_60800.png",
+        "query": "what is the percentage value of green bar in 2018?",
+        "label": "13"
+    },
+    {
+        "imgname": "multi_col_60800.png",
+        "query": "What is the average of all the blue bars?",
+        "label": "30"
+    },
+    {
+        "imgname": "multi_col_60850.png",
+        "query": "Can you identify the category in which Male data is 49970 and female data is13932?",
+        "label": "Air Force"
+    },
+    {
+        "imgname": "multi_col_60850.png",
+        "query": "What is the sum (total male and female) of Air Force?",
+        "label": "63902"
+    },
+    {
+        "imgname": "multi_col_60856.png",
+        "query": "In the chart one bar belongs to Innovative Medicines, what is another bar belongs to?",
+        "label": "Sandoz"
+    },
+    {
+        "imgname": "multi_col_60856.png",
+        "query": "If we Add the established markets value and subtract emerging growth markets value from it, what is the result?",
+        "label": "98"
+    },
+    {
+        "imgname": "multi_col_60887.png",
+        "query": "Which category in x-axis got 5.7 and 17.09 value in the chart?",
+        "label": "Multimedia & smart cameras"
+    },
+    {
+        "imgname": "multi_col_60887.png",
+        "query": "What is the average of 2014 all dark blue bar?",
+        "label": "20.95"
+    },
+    {
+        "imgname": "multi_col_60938.png",
+        "query": "How many percentage people told 'Will get worse'  'in one month'?",
+        "label": "82"
+    },
+    {
+        "imgname": "multi_col_60938.png",
+        "query": "What is the ratio between will get better in one year vs will get worse in one year?",
+        "label": "2.4167"
+    },
+    {
+        "imgname": "multi_col_60956.png",
+        "query": "Which year has the maximum share of respondents?",
+        "label": "2014/15"
+    },
+    {
+        "imgname": "multi_col_60956.png",
+        "query": "Which year has the maximum difference between the age categories?",
+        "label": "2017/18"
+    },
+    {
+        "imgname": "multi_col_60959.png",
+        "query": "WHat does the color grey indicate?",
+        "label": "60 years or older"
+    },
+    {
+        "imgname": "multi_col_60959.png",
+        "query": "What is the total share of respondents avoided large public assemblings?",
+        "label": "211"
+    },
+    {
+        "imgname": "multi_col_80033.png",
+        "query": "What attitude does the light blue bar represent?",
+        "label": "Very good"
+    },
+    {
+        "imgname": "multi_col_80033.png",
+        "query": "What's the percentage of parents of children in primary school that like online education?",
+        "label": "38"
+    },
+    {
+        "imgname": "multi_col_80079.png",
+        "query": "Which year does the navy blue color indicate?",
+        "label": "2013"
+    },
+    {
+        "imgname": "multi_col_80079.png",
+        "query": "Which supply channel has the same value for 2012 and 2013?",
+        "label": "Other"
+    },
+    {
+        "imgname": "multi_col_80103.png",
+        "query": "What is the sum of gray bar?",
+        "label": "166"
+    },
+    {
+        "imgname": "multi_col_80103.png",
+        "query": "What is the ratio between domestic travel and international travel for 'Yes' respondents?",
+        "label": "0.33"
+    },
+    {
+        "imgname": "multi_col_80129.png",
+        "query": "What is the value of Medication abortions in 2017?",
+        "label": "339640"
+    },
+    {
+        "imgname": "multi_col_80129.png",
+        "query": "What is the ratio between medication abortions and total abortions in 2017?",
+        "label": "0.3939"
+    },
+    {
+        "imgname": "multi_col_80291.png",
+        "query": "Which european country represent highest ranking in 2017?",
+        "label": "Germany"
+    },
+    {
+        "imgname": "multi_col_80291.png",
+        "query": "What is the sum total of all the country in the year 2015?",
+        "label": "52.9"
+    },
+    {
+        "imgname": "multi_col_100056.png",
+        "query": "Identify the category, that recorded 35% and 15% ?",
+        "label": "Product availability"
+    },
+    {
+        "imgname": "multi_col_100056.png",
+        "query": "What is the average of all the blue bars ?",
+        "label": "35.4"
+    },
+    {
+        "imgname": "multi_col_100095.png",
+        "query": "What is the percentage share of women respondents who consume coffee once a day?",
+        "label": "17"
+    },
+    {
+        "imgname": "multi_col_100095.png",
+        "query": "In how many cases difference between the light blue bar and the dark blue bar is 1?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_100109.png",
+        "query": "Which type of pubic hair style(s) is/are the least common?",
+        "label": "[Brazilian, Small triangle]"
+    },
+    {
+        "imgname": "multi_col_100109.png",
+        "query": "What is the total of bikini lines (standard or full) for the popular of over 30s?",
+        "label": "43"
+    },
+    {
+        "imgname": "multi_col_100234.png",
+        "query": "Which age category has the highest breakdown?",
+        "label": "Above 55 years"
+    },
+    {
+        "imgname": "multi_col_100234.png",
+        "query": "What is the difference in dettol customers and national population in 25-34 years?",
+        "label": "6"
+    },
+    {
+        "imgname": "multi_col_100244.png",
+        "query": "Which is the only factor highest among all?",
+        "label": "Normotensive untreated"
+    },
+    {
+        "imgname": "multi_col_100244.png",
+        "query": "Which has a difference of 5% among men and women?",
+        "label": "All with hypertension"
+    },
+    {
+        "imgname": "multi_col_100312.png",
+        "query": "How many years have the same value for both investment and development?",
+        "label": "2"
+    },
+    {
+        "imgname": "multi_col_100312.png",
+        "query": "What is the average of 2012?",
+        "label": "2.845"
+    },
+    {
+        "imgname": "multi_col_100328.png",
+        "query": "When did the female life expectancy reach the peak?",
+        "label": "2018"
+    },
+    {
+        "imgname": "multi_col_100328.png",
+        "query": "What's the average life expectancy in 2017?",
+        "label": "63.61"
+    },
+    {
+        "imgname": "multi_col_80332.png",
+        "query": "Which year has the least in 15-64 years?",
+        "label": "2017"
+    },
+    {
+        "imgname": "multi_col_80332.png",
+        "query": "What is the mode value of 0-14 years approximately?",
+        "label": "No mode."
+    },
+    {
+        "imgname": "multi_col_80350.png",
+        "query": "What is the share of defence expenditure in UK in 2012?",
+        "label": "2.2"
+    },
+    {
+        "imgname": "multi_col_80350.png",
+        "query": "In how many years the defense spending in Germany is below 1.4?",
+        "label": "8"
+    },
+    {
+        "imgname": "multi_col_80397.png",
+        "query": "How many ethnicity have been considered?",
+        "label": "4"
+    },
+    {
+        "imgname": "multi_col_80397.png",
+        "query": "How many percentage of people are not sure?",
+        "label": "88"
+    },
+    {
+        "imgname": "multi_col_80628.png",
+        "query": "What does navy blue color indicate?",
+        "label": "Surgical stays"
+    },
+    {
+        "imgname": "multi_col_80628.png",
+        "query": "Which has a cost of 0%?",
+        "label": "Maternal/neonatal stays"
+    },
+    {
+        "imgname": "multi_col_80802.png",
+        "query": "when did the female life expectancy at birth reach the peak?",
+        "label": "2020"
+    },
+    {
+        "imgname": "multi_col_80802.png",
+        "query": "For how many years has the male's life expectancy been over 62 years?",
+        "label": "8"
+    },
+    {
+        "imgname": "multi_col_80880.png",
+        "query": "A zero value happened in one year, Find out that year?",
+        "label": "2003"
+    },
+    {
+        "imgname": "multi_col_80880.png",
+        "query": "What is the average of last four year in blue line chart ?",
+        "label": "45.5"
+    },
+    {
+        "imgname": "two_col_42.png",
+        "query": "Which two adjacent bars have the nearest number of subscribers?",
+        "label": "[WWE, Kids Diana Show]"
+    },
+    {
+        "imgname": "two_col_42.png",
+        "query": "What's the average number of subscribers of the most 3 popular Youtube channels ?",
+        "label": "145"
+    },
+    {
+        "imgname": "two_col_55.png",
+        "query": "How many tiny bars exist in this chart?",
+        "label": "2"
+    },
+    {
+        "imgname": "two_col_55.png",
+        "query": "What's the percentage of the discharged cases in the total confirmed cases in Malaysia?",
+        "label": "90.9"
+    },
+    {
+        "imgname": "two_col_85.png",
+        "query": "Are the bars sorted in this graph?",
+        "label": "No"
+    },
+    {
+        "imgname": "two_col_85.png",
+        "query": "What's the sum of the first two bars (from the left) percentages?",
+        "label": "17.1"
+    },
+    {
+        "imgname": "multi_col_69.png",
+        "query": "Is the value of the blue bar decreasing over the years?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "multi_col_69.png",
+        "query": "Which two age groups are increasing over the years?",
+        "label": "[15-64 years, 65 years +]"
+    },
+    {
+        "imgname": "multi_col_83.png",
+        "query": "In which year the increase of the blue line value compared to the previous year was maximum?",
+        "label": "2020"
+    },
+    {
+        "imgname": "multi_col_83.png",
+        "query": "Did the male population in China ever decrease in any year between 2010 and 2020?",
+        "label": "No"
+    },
+    {
+        "imgname": "multi_col_87.png",
+        "query": "In which time the two lines were closest to each other in this chart?",
+        "label": "Mar '21"
+    },
+    {
+        "imgname": "multi_col_87.png",
+        "query": "In which time the disagreement over the way the congress is handling its job was maximum?",
+        "label": "Dec '20"
+    },
+    {
+        "imgname": "multi_col_162.png",
+        "query": "Which gender has invisible bars in this graph?",
+        "label": "Unknown"
+    },
+    {
+        "imgname": "multi_col_162.png",
+        "query": "In which gender the number of people shot to death by police in the US was increasing over the years till 2020?",
+        "label": "Male"
+    },
+    {
+        "imgname": "multi_col_171.png",
+        "query": "Which land drilling company has two bars of the same length?",
+        "label": "Precision Drilling Corporation"
+    },
+    {
+        "imgname": "multi_col_171.png",
+        "query": "Which land drilling company had the largest increase in revenue from 2018 to 2019?",
+        "label": "Helmerich & Payne, Inc."
+    },
+    {
+        "imgname": "multi_col_172.png",
+        "query": "Are the values of the yellow bar sorted from top to bottom?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "multi_col_172.png",
+        "query": "How many more medals does Norway have over the US overall?",
+        "label": "63"
+    },
+    {
+        "imgname": "multi_col_178.png",
+        "query": "Which bar is missing in the PwC stacked bars?",
+        "label": "Other***"
+    },
+    {
+        "imgname": "multi_col_178.png",
+        "query": "Which firm has the second largest revenue in Consulting?",
+        "label": "PwC"
+    }
+]

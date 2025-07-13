@@ -1,0 +1,17 @@
+
+# Ignore .png and .json .csv files in data/
+Data/Dataset/png/*.png
+Data/Dataset/annotations/*.json
+Data/Dataset/tables/*.csv
+
+Data/test/png/*.png
+Data/test/annotations/*.json
+Data/test/tables/*.csv
+
+Data/train/png/*.png
+Data/train/annotations/*.json
+Data/train/tables/*.csv
+
+Data/val/png/*.png
+Data/val/annotations/*.json
+Data/val/tables/*.csv

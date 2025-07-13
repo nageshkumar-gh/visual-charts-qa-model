@@ -1,0 +1,61 @@
+import os
+import json
+import pandas as pd
+
+# Split CSVs and their target output directories
+splits = {
+    'train': {
+        'csv': 'Utils/output/train_split_files.csv',
+        'dir': 'Data/train'
+    },
+    'val': {
+        'csv': 'Utils/output/val_split_files.csv',
+        'dir': 'Data/val'
+    },
+    'test': {
+        'csv': 'Utils/output/test_split_files.csv',
+        'dir': 'Data/test'
+    }
+}
+
+# Source JSON files
+json_sources = {
+    'augmented': 'Data/Dataset/augmented.json',
+    'human': 'Data/Dataset/human.json'
+}
+
+# Function to count entries and key-value pairs
+def count_key_value_pairs(data):
+    total_entries = len(data)
+    total_pairs = sum(len(item) for item in data)
+    return total_entries, total_pairs
+
+# Load split filenames (without extensions)
+split_filenames = {}
+for split, info in splits.items():
+    df = pd.read_csv(info['csv'])
+    split_filenames[split] = set(df['filename'].str.strip())
+
+# Process each JSON source
+for label, json_path in json_sources.items():
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    total_entries, total_pairs = count_key_value_pairs(data)
+    print(f"\n🔹 Source JSON: {label} ({json_path})")
+    print(f"   Total entries: {total_entries}, Total key-value pairs: {total_pairs}")
+
+    for split, info in splits.items():
+        allowed = split_filenames[split]
+        filtered = [entry for entry in data if entry['imgname'].replace('.png', '') in allowed]
+
+        os.makedirs(info['dir'], exist_ok=True)
+        output_path = os.path.join(info['dir'], f"{split}_{label}.json")
+
+        with open(output_path, 'w', encoding='utf-8') as f_out:
+            json.dump(filtered, f_out, indent=4)
+
+        filtered_entries, filtered_pairs = count_key_value_pairs(filtered)
+        print(f" {output_path}: {filtered_entries} entries, {filtered_pairs} key-value pairs")
+        
+
