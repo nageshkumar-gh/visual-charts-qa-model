@@ -42,7 +42,7 @@ for label, json_path in json_sources.items():
         data = json.load(f)
 
     total_entries, total_pairs = count_key_value_pairs(data)
-    print(f"\n🔹 Source JSON: {label} ({json_path})")
+    print(f"\n Source JSON: {label} ({json_path})")
     print(f"   Total entries: {total_entries}, Total key-value pairs: {total_pairs}")
 
     for split, info in splits.items():
