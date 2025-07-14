@@ -13,7 +13,7 @@ summary_df = pd.DataFrame({
     'Count': type_counts,
     'Percentage': type_percent.round(2)
 })
-print("🔹 Full Dataset Chart Type Distribution:")
+print(" Full Dataset Chart Type Distribution:")
 print(summary_df)
 
 # Plot full dataset distribution
@@ -38,7 +38,7 @@ train_df[['filename','type']].to_csv('Utils/output/train_split_files.csv', index
 val_df[['filename','type']].to_csv('Utils/output/val_split_files.csv', index=False)
 test_df[['filename','type']].to_csv('Utils/output/test_split_files.csv', index=False)
 
-print(f"\n🔹 Split Sizes:")
+print(f"\n Split Sizes:")
 print(f"Train: {len(train_df)}, Val: {len(val_df)}, Test: {len(test_df)}")
 
 # -----------------------------
@@ -52,7 +52,7 @@ def show_distribution(df, name):
         'Percentage': type_percent.round(2)
     })
 
-    print(f"\n🔹 {name} Set Chart Type Distribution:")
+    print(f"\n {name} Set Chart Type Distribution:")
     print(summary)
 
     # Plot
