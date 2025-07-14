@@ -56,6 +56,6 @@ for label, json_path in json_sources.items():
             json.dump(filtered, f_out, indent=4)
 
         filtered_entries, filtered_pairs = count_key_value_pairs(filtered)
-        print(f" {output_path}: {filtered_entries} entries, {filtered_pairs} key-value pairs")
+        print(f" {output_path}: {filtered_entries} entries")
         
 
