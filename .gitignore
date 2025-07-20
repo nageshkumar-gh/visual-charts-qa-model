@@ -8,15 +8,18 @@ Data/test/png/*.png
 Data/test/annotations/*.json
 Data/test/tables/*.csv
 Data/test/labels/*.txt
+Data/test/yolo_labels/*.txt
 
 Data/train/png/*.png
 Data/train/annotations/*.json
 Data/train/tables/*.csv
 Data/train/labels/*.txt
+Data/train/yolo_labels/*.txt
 
 Data/val/png/*.png
 Data/val/annotations/*.json
 Data/val/tables/*.csv
 Data/val/labels/*.txt
+Data/val/yolo_labels/*.txt
 
 debug_outputs/*.png

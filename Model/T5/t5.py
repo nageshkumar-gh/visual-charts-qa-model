@@ -5,12 +5,12 @@ from torch.utils.data import Dataset
 from transformers import T5Tokenizer, T5ForConditionalGeneration, Trainer, TrainingArguments
 from sklearn.metrics import accuracy_score
 
-# ✅ Load data
+
 train_df = pd.read_csv("Data/train/input/input_train_annot_t5.csv").dropna()
 val_df = pd.read_csv("Data/val/input/input_val_annot_t5.csv").dropna()
 test_df = pd.read_csv("Data/test/input/input_test_annot_t5.csv").dropna()
 
-# ✅ Dataset Class
+
 class QADataset(Dataset):
     def __init__(self, df, tokenizer, max_input_len=512, max_target_len=64):
         self.tokenizer = tokenizer
@@ -48,17 +48,17 @@ class QADataset(Dataset):
             "labels": labels
         }
 
-# ✅ Load tokenizer and model
+
 model_name = "t5-small"
 tokenizer = T5Tokenizer.from_pretrained(model_name)
 model = T5ForConditionalGeneration.from_pretrained(model_name)
 
-# ✅ Create datasets
+
 train_dataset = QADataset(train_df, tokenizer)
 val_dataset = QADataset(val_df, tokenizer)
 test_dataset = QADataset(test_df, tokenizer)
 
-# ✅ Training arguments
+
 training_args = TrainingArguments(
     output_dir="./t5-model",
     per_device_train_batch_size=4,
@@ -73,7 +73,7 @@ training_args = TrainingArguments(
     report_to="none"
 )
 
-# ✅ Trainer
+
 trainer = Trainer(
     model=model,
     args=training_args,
@@ -81,10 +81,10 @@ trainer = Trainer(
     eval_dataset=val_dataset,
 )
 
-# ✅ Train the model
+
 trainer.train()
 
-# ✅ Evaluate on test set
+
 def evaluate(model, dataset, tokenizer):
     model.eval()
     preds, targets = [], []
