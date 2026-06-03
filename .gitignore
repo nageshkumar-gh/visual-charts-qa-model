@@ -23,3 +23,10 @@ Data/val/labels/*.txt
 Data/val/yolo_labels/*.txt
 
 debug_outputs/*.png
+
+# Large data and model files (>100MB, excluded from GitHub)
+src/Data/**/*.json
+src/Data/**/*.csv
+src/Model/**/*.safetensors
+src/Model/**/*.pt
+src/Model/**/*.bin
