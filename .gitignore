@@ -1,4 +1,7 @@
 
+# macOS metadata
+.DS_Store
+
 # Ignore .png and .json .csv files in data/
 Data/Dataset/png/*.png
 Data/Dataset/annotations/*.json
