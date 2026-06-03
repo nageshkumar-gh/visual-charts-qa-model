@@ -63,6 +63,94 @@ QA pairs include augmented (rule-generated) and human-annotated samples covering
 
 ---
 
+### Annotation JSON Files
+
+Each split (train / val / test) has two QA annotation files sourced from ChartQA:
+
+| File | Records | Description |
+|------|---------|-------------|
+| `train_augmented.json` / `val_augmented.json` / `test_augmented.json` | ~20,901 total | Rule-generated QA pairs. Questions are automatically constructed from chart data (e.g. "What is the maximum value?"). Cover numeric and comparative question types. |
+| `train_human.json` / `val_human.json` / `test_human.json` | ~7,398 total | Human-annotated QA pairs. Questions are written by human annotators and tend to be more diverse, requiring deeper reasoning. |
+
+Each record has three fields:
+
+```json
+{
+  "imgname": "two_col_103562.png",
+  "query":   "As of 2021, how many championship titles had Ferrari won?",
+  "label":   "16"
+}
+```
+
+| Field | Description |
+|-------|-------------|
+| `imgname` | Filename of the chart image (located in the corresponding `png/` folder) |
+| `query` | Natural language question about the chart |
+| `label` | Ground-truth answer string |
+
+---
+
+### COCO Annotation Files
+
+COCO-format files contain **bounding box annotations** for visual elements within each chart image. They are used to train the object detection models (YOLO, Faster R-CNN) that localize chart components.
+
+The COCO format is a standard JSON structure with three top-level sections:
+
+```
+{
+  "images":      [ { "id", "file_name", "width", "height" }, ... ],
+  "annotations": [ { "id", "image_id", "category_id", "bbox", "area", "segmentation", "iscrowd" }, ... ],
+  "categories":  [ { "id", "name" }, ... ]
+}
+```
+
+| Field | Description |
+|-------|-------------|
+| `images` | One entry per chart image with its dimensions |
+| `annotations` | One bounding box per detected element in an image. `bbox` is `[x, y, width, height]` in pixels; `segmentation` is the polygon outline of the same region |
+| `categories` | Class labels for chart components |
+
+There are two generations of COCO files, stored at different paths:
+
+**`{split}_coco_annotations.json`** (root of each split folder) — first-generation, 15 classes:
+
+| ID | Class | Description |
+|----|-------|-------------|
+| 0 | Legend | Full legend block |
+| 1 | yAxisTitle | Y-axis title text |
+| 2 | ChartTitle | Main chart title |
+| 3 | xAxisTitle | X-axis title text |
+| 4 | LegendPreview | Colour swatch inside a legend |
+| 5 | PlotArea | The drawable area of the chart |
+| 6 | yAxisLabel | Numeric/text labels on the Y axis |
+| 7 | xAxisLabel | Numeric/text labels on the X axis |
+| 8 | LegendLabel | Text label next to a legend swatch |
+| 9 | PieLabel | Label on a pie segment |
+| 10 | bar | Any bar (vertical or horizontal) |
+| 11 | pie | Full pie chart region |
+| 12 | line | Line series |
+| 13 | pie_slice | Individual pie slice |
+| 14 | dot_line | Dotted/dashed line series |
+
+**`coco_files/{split}_coco_annotations_v2/v3/v4.json`** (versioned, inside `coco_files/`) — refined to 10 classes used for final YOLO training:
+
+| ID | Class | Description |
+|----|-------|-------------|
+| 0 | ChartTitle | Main chart title |
+| 1 | PlotArea | Drawable chart area |
+| 2 | LegendLabel | Text label in legend |
+| 3 | xAxisLabel | X-axis tick labels |
+| 4 | yAxisLabel | Y-axis tick labels |
+| 5 | PieLabel | Pie segment label |
+| 6 | v_bar | Vertical bar |
+| 7 | h_bar | Horizontal bar |
+| 8 | line | Line series |
+| 9 | yAxisTitle | Y-axis title |
+
+The versioned files (`v2`, `v3`, `v4`) represent iterative refinements to bounding box quality and class consolidation. `v4` is the version used for final model training (12,821 images / 434,894 annotations across the train split).
+
+---
+
 ## Project Structure
 
 ```
